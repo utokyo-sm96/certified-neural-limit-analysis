@@ -1,0 +1,35 @@
+init from data/nlo_ckpt_100k.pt; new parameters: ['head_f.weight', 'head_f.bias']
+step    945     60s  ub 0.8807  lb 0.7799  gap 0.1144
+step   1896    120s  ub 0.8425  lb 0.7658  gap 0.0910
+step   2831    180s  ub 0.8556  lb 0.7713  gap 0.0985
+step   3758    240s  ub 0.8453  lb 0.7685  gap 0.0909
+step   4666    300s  ub 0.8423  lb 0.7638  gap 0.0932
+step   5479    360s  ub 0.8513  lb 0.7709  gap 0.0944
+step   6391    420s  ub 0.8505  lb 0.7723  gap 0.0920
+step   7317    480s  ub 0.8492  lb 0.7772  gap 0.0848
+step   8240    540s  ub 0.8452  lb 0.7744  gap 0.0837
+step   9161    600s  ub 0.8464  lb 0.7624  gap 0.0992
+step  10069    660s  ub 0.8505  lb 0.7753  gap 0.0885
+step  10974    720s  ub 0.8569  lb 0.7766  gap 0.0936
+step  11876    780s  ub 0.8398  lb 0.7552  gap 0.1007
+step  12778    841s  ub 0.8483  lb 0.7716  gap 0.0904
+step  13681    901s  ub 0.8400  lb 0.7677  gap 0.0861
+step  14579    961s  ub 0.8401  lb 0.7647  gap 0.0898
+step  15478   1021s  ub 0.8357  lb 0.7657  gap 0.0838
+step  16374   1081s  ub 0.8383  lb 0.7612  gap 0.0920
+step  17270   1141s  ub 0.8371  lb 0.7620  gap 0.0896
+step  18167   1201s  ub 0.8386  lb 0.7685  gap 0.0837
+step  19066   1261s  ub 0.8412  lb 0.7740  gap 0.0798
+step  19951   1321s  ub 0.8364  lb 0.7683  gap 0.0814
+step  20840   1381s  ub 0.8274  lb 0.7566  gap 0.0855
+step  21735   1441s  ub 0.8417  lb 0.7728  gap 0.0818
+step  22633   1501s  ub 0.8370  lb 0.7683  gap 0.0820
+step  23529   1561s  ub 0.8293  lb 0.7637  gap 0.0791
+step  24413   1621s  ub 0.8368  lb 0.7688  gap 0.0812
+step  25306   1681s  ub 0.8279  lb 0.7597  gap 0.0824
+step  26200   1741s  ub 0.8316  lb 0.7660  gap 0.0790
+step  27091   1801s  ub 0.8454  lb 0.7789  gap 0.0786
+step  27983   1861s  ub 0.8243  lb 0.7582  gap 0.0802
+step  28879   1921s  ub 0.8269  lb 0.7604  gap 0.0804
+step  29777   1981s  ub 0.8221  lb 0.7567  gap 0.0796
+done: 30000 steps in 1996s, saved data/nlo_zp_ft30k.pt

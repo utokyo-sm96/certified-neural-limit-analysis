@@ -1,0 +1,58 @@
+---- training log (tail)
+step   1069    150s  ub 0.9238  lb 0.6476  gap 0.2989
+step   1279    180s  ub 0.9585  lb 0.6518  gap 0.3200
+step   1488    210s  ub 0.9288  lb 0.6498  gap 0.3004
+step   1697    240s  ub 0.9284  lb 0.6623  gap 0.2866
+step   1906    271s  ub 0.9236  lb 0.6619  gap 0.2833
+step   2114    301s  ub 0.9301  lb 0.6584  gap 0.2921
+step   2322    331s  ub 0.9509  lb 0.6578  gap 0.3082
+step   2530    361s  ub 0.9275  lb 0.6495  gap 0.2997
+step   2739    391s  ub 0.9126  lb 0.6583  gap 0.2787
+step   2947    421s  ub 0.9076  lb 0.6629  gap 0.2696
+step   3155    451s  ub 0.9070  lb 0.6592  gap 0.2732
+done: 3355 steps in 480s, saved /home/oldlinux/Research_Projects/Corrosion/PaperX/cnla/data/nlo_ckpt.pt
+---- evaluation
+G1 uniform strip: UB/(sy W t)=1.00351  LB/(sy W t)=0.95491  FE UB/(sy W t)=1.00002  
+syn0022  UB  318.76  LB  242.12 kN  gap  24.04%  (ref [290.46, 291.70], UB +9.28%, LB -16.64%, mesh floor 1.60%)  yield 1.0000  
+syn0062  UB  208.57  LB  168.39 kN  gap  19.27%  (ref [199.54, 201.26], UB +3.63%, LB -15.61%, mesh floor 2.65%)  yield 1.0000  
+syn0070  UB  219.94  LB  168.92 kN  gap  23.20%  (ref [205.86, 207.63], UB +5.93%, LB -17.94%, mesh floor 3.17%)  yield 1.0000  
+syn0098  UB  199.73  LB  167.27 kN  gap  16.25%  (ref [187.65, 188.39], UB +6.02%, LB -10.86%, mesh floor 1.67%)  yield 1.0000  
+syn0113  UB  214.27  LB  193.17 kN  gap   9.85%  (ref [207.53, 208.57], UB +2.73%, LB -6.92%, mesh floor 1.35%)  yield 1.0000  
+syn0142  UB  179.70  LB  134.89 kN  gap  24.93%  (ref [161.80, 162.76], UB +10.41%, LB -16.63%, mesh floor 3.11%)  yield 1.0000  
+syn0161  UB  157.72  LB   81.46 kN  gap  48.35%  (ref [128.25, 129.35], UB +21.93%, LB -36.48%, mesh floor 4.20%)  yield 1.0000  
+syn0182  UB  330.10  LB  308.74 kN  gap   6.47%  (ref [322.63, 323.27], UB +2.11%, LB -4.30%, mesh floor 0.60%)  yield 1.0000  
+syn0203  UB  325.18  LB  216.54 kN  gap  33.41%  (ref [268.48, 269.50], UB +20.66%, LB -19.34%, mesh floor 2.43%)  yield 1.0000  
+syn0260  UB  262.58  LB  220.99 kN  gap  15.84%  (ref [244.96, 246.18], UB +6.66%, LB -9.78%, mesh floor 1.66%)  yield 1.0000  
+syn0295  UB  160.91  LB   86.04 kN  gap  46.53%  (ref [131.23, 132.94], UB +21.04%, LB -34.44%, mesh floor 5.40%)  yield 1.0000  
+syn0297  UB  218.84  LB  180.46 kN  gap  17.54%  (ref [206.08, 207.15], UB +5.64%, LB -12.43%, mesh floor 2.03%)  yield 1.0000  
+syn0313  UB  205.70  LB  152.04 kN  gap  26.09%  (ref [177.75, 178.64], UB +15.15%, LB -14.47%, mesh floor 2.22%)  yield 1.0000  
+syn0341  UB  313.68  LB  261.06 kN  gap  16.77%  (ref [284.28, 285.14], UB +10.01%, LB -8.17%, mesh floor 1.02%)  yield 1.0000  
+syn0371  UB  204.42  LB  167.35 kN  gap  18.13%  (ref [186.80, 187.63], UB +8.95%, LB -10.42%, mesh floor 1.90%)  yield 1.0000  
+syn0396  UB  223.87  LB  145.50 kN  gap  35.00%  (ref [196.51, 197.91], UB +13.11%, LB -25.95%, mesh floor 3.56%)  yield 1.0000  
+syn0397  UB  338.88  LB  255.26 kN  gap  24.68%  (ref [300.78, 301.49], UB +12.41%, LB -15.13%, mesh floor 1.41%)  yield 1.0000  
+syn0419  UB  185.73  LB  152.54 kN  gap  17.87%  (ref [176.27, 177.34], UB +4.73%, LB -13.46%, mesh floor 2.27%)  yield 1.0000  
+syn0428  UB  328.07  LB  277.79 kN  gap  15.33%  (ref [311.46, 312.95], UB +4.83%, LB -10.81%, mesh floor 1.57%)  yield 1.0000  
+syn0454  UB  223.81  LB  196.84 kN  gap  12.05%  (ref [217.61, 218.63], UB +2.37%, LB -9.54%, mesh floor 1.60%)  yield 1.0000  
+syn0532  UB  205.62  LB  161.02 kN  gap  21.69%  (ref [186.74, 187.56], UB +9.63%, LB -13.77%, mesh floor 2.12%)  yield 1.0000  
+syn0563  UB  308.00  LB  244.87 kN  gap  20.50%  (ref [286.82, 288.03], UB +6.93%, LB -14.63%, mesh floor 2.20%)  yield 1.0000  
+syn0736  UB  208.89  LB   96.67 kN  gap  53.72%  (ref [167.38, 169.20], UB +23.46%, LB -42.24%, mesh floor 5.18%)  yield 1.0000  
+syn0769  UB  141.71  LB   26.43 kN  gap  81.35%  (ref [101.56, 102.41], UB +38.38%, LB -73.97%, mesh floor 4.97%)  yield 1.0000  
+syn0827  UB  298.98  LB  243.72 kN  gap  18.48%  (ref [277.68, 278.79], UB +7.24%, LB -12.23%, mesh floor 1.46%)  yield 1.0000  
+syn0834  UB  188.59  LB  155.10 kN  gap  17.76%  (ref [175.47, 176.16], UB +7.06%, LB -11.61%, mesh floor 2.01%)  yield 1.0000  
+syn0853  UB  228.05  LB  195.59 kN  gap  14.24%  (ref [219.86, 220.72], UB +3.32%, LB -11.04%, mesh floor 1.74%)  yield 1.0000  
+syn0857  UB  321.56  LB  277.03 kN  gap  13.85%  (ref [303.42, 304.68], UB +5.54%, LB -8.70%, mesh floor 1.41%)  yield 1.0000  
+syn0872  UB  218.23  LB  198.30 kN  gap   9.13%  (ref [212.27, 213.43], UB +2.25%, LB -6.58%, mesh floor 1.29%)  yield 1.0000  
+syn0873  UB  211.61  LB  176.27 kN  gap  16.70%  (ref [201.73, 202.87], UB +4.31%, LB -12.62%, mesh floor 1.93%)  yield 1.0000  
+syn0899  UB  335.53  LB  287.76 kN  gap  14.23%  (ref [318.94, 319.92], UB +4.88%, LB -9.77%, mesh floor 1.28%)  yield 1.0000  
+syn0903  UB  212.31  LB  149.58 kN  gap  29.55%  (ref [187.89, 189.25], UB +12.18%, LB -20.39%, mesh floor 3.45%)  yield 1.0000  
+---
+gap_mean: 0.238367
+gates: PASS
+runtime_s: 555.4
+gap_median: 0.183087
+gap_max: 0.813484
+ub_excess_mean: 0.097745
+lb_deficit_mean: 0.170902
+mesh_floor_gap_mean: 0.023273
+train_s: 483.3
+infer_ms_per_plate: 27

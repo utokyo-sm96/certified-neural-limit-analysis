@@ -1,0 +1,8 @@
+run	commit	metric	gates	status	runtime_s	timestamp	description
+1	41b1a7b	0.101926	PASS	baseline	717.8	2026-11-07T12:31:34	baseline (loop nlo-1106 recipe, 480 s) run 1
+2	41b1a7b	0.114683	PASS	baseline	719.3	2026-11-07T12:43:33	baseline (loop nlo-1106 recipe, 480 s) run 2
+3	5c7f9fb	0.087694	PASS	discard	749.6	2026-11-07T13:03:42	N1 parallel Airy solves: 0.0877 (-0.0142 < 0.015), net 0.160, 7091 steps (+16-24 %); near-miss
+4	ff9fca3	0.104814	PASS	discard	730.9	2026-11-07T13:16:43	N1+N2 throughput package: 0.1048, net 0.166, 8007 steps (+31-40 %); speed-ups this size are inside the noise
+5	0850f55	0.100729	PASS	discard	741.2	2026-11-07T13:29:39	N3 hard-plate sampling: 0.1007 (-0.0012), net 0.173; no effect
+6	3065506	0.105496	PASS	discard	715.4	2026-11-07T13:41:53	N4 tau anneal 0.01->0.002: 0.1055 (+0.004), net 0.173; no effect
+7	f9f85f6	0.102402	PASS	discard	710.7	2026-11-07T13:54:29	N8 bottleneck self-attention: 0.1024 (+0.0005), net 0.172; no effect

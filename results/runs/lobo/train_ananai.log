@@ -1,0 +1,12 @@
+NLO_FAMILY=ananai: 557 of 904 training plates
+loaded 557 training plates in 0.1s
+params 5.14M
+step   3294    300s  ub 0.8888  lb 0.6868  gap 0.2273
+step   6811    600s  ub 0.8861  lb 0.7018  gap 0.2080
+step  10302    900s  ub 0.8593  lb 0.7284  gap 0.1524
+step  13796   1200s  ub 0.8659  lb 0.7365  gap 0.1495
+step  17253   1500s  ub 0.8498  lb 0.7277  gap 0.1437
+step  20706   1800s  ub 0.8377  lb 0.7297  gap 0.1288
+step  24136   2100s  ub 0.8507  lb 0.7524  gap 0.1156
+step  27584   2400s  ub 0.8464  lb 0.7503  gap 0.1136
+done: 30000 steps in 2609s, saved data/nlo_lobo_ananai30k.pt

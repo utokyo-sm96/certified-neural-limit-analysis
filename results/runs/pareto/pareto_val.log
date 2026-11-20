@@ -1,0 +1,7 @@
+comb: gap mean 7.206%  median 5.278%  time mean 0.57s  max 0.77s
+b1: gap mean 4.282%  median 3.187%  time mean 2.63s  max 3.45s
+b2: gap mean 3.570%  median 2.620%  time mean 4.15s  max 5.30s
+b3: gap mean 3.233%  median 2.463%  time mean 5.62s  max 6.97s
+b4: gap mean 2.935%  median 2.155%  time mean 10.93s  max 20.92s
+b5: gap mean 2.792%  median 1.855%  time mean 14.41s  max 30.50s
+b6: gap mean 2.778%  median 1.877%  time mean 15.64s  max 37.44s

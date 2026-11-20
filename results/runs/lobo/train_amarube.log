@@ -1,0 +1,13 @@
+NLO_FAMILY=amarube: 347 of 904 training plates
+loaded 347 training plates in 0.1s
+params 5.14M
+step   3393    300s  ub 0.8711  lb 0.7403  gap 0.1502
+step   6805    600s  ub 0.8499  lb 0.7492  gap 0.1184
+step  10231    900s  ub 0.8529  lb 0.7554  gap 0.1143
+step  13640   1200s  ub 0.8433  lb 0.7618  gap 0.0967
+step  17058   1500s  ub 0.8430  lb 0.7568  gap 0.1022
+step  20522   1800s  ub 0.8348  lb 0.7669  gap 0.0813
+step  23948   2100s  ub 0.8392  lb 0.7727  gap 0.0793
+step  27402   2400s  ub 0.8349  lb 0.7711  gap 0.0764
+done: 30000 steps in 2625s, saved data/nlo_lobo_amarube30k.pt
+all done

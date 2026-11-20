@@ -1,0 +1,24 @@
+run	commit	metric	gates	status	runtime_s	timestamp	description
+1	2344e61	0.108648	PASS	baseline	87.1	2026-11-07T02:27:06	baseline: network output as is (run 1)
+2	2344e61	0.108648	PASS	baseline	88.4	2026-11-07T02:28:34	baseline: network output as is (run 2)
+3	a07d4ca	0.100974	PASS	keep	92.5	2026-11-07T02:37:00	A1 mirror ensemble (4 images, min UB / max LB): 0.1010, 0.11 s/plate
+4	4459214	0.092986	FAIL G4 time mean 7.26s max 8.38s	gate_fail	325.7	2026-11-07T02:37:00	A2 convex combination of mirror fields: 0.0930 but 7.3 s/plate (full 82k-cone programs)
+5	d5a0972	0.097778	FAIL G4 time mean 5.92s max 7.98s	gate_fail	290.0	2026-11-07T02:43:03	A2 with active sets (w>=0): 0.0978 but 5.9 s/plate; Clarabel over ~10^4 cones is the cost
+6	66a66c9	0.092986	PASS	keep	254.0	2026-11-07T02:47:29	A2 convex combination of mirror fields (cutting planes for LB, Nelder-Mead for UB): 0.0930, 4.9 s/plate
+7	cf55a2b	0.092986	PASS	discard	212.5	2026-11-07T02:51:40	UB by IRLS: same 0.0930, time 4.87->3.54 s (-27 % < 30 % tie-break); einsum is the cost
+8	a2130dd	0.092986	PASS	keep	129.5	2026-11-07T02:54:32	UB IRLS with BLAS: same 0.0930, time 4.87->1.14 s/plate (tie-break keep; includes run-7 IRLS code)
+9	4a01ac5	0.08744	PASS	keep	131.9	2026-11-07T02:56:54	A3 local LB correction (theta 0.95, dil 1, <=2500 coef): 0.0874, LB -5.6 %, 1.26 s
+10	cf58033	0.078791	PASS	keep	158.2	2026-11-07T03:00:02	A5 iterate local LB correction (<=4 rounds, cap 4000): 0.0788, LB -4.7 %, 1.95 s (max 5.6)
+11	7276ea2	0.078791	PASS	discard	149.3	2026-11-07T03:02:54	A4 local UB correction with max_nodes 3000: never applied (band has >5000 nodes) -> no change
+12	a22b095	0.068792	PASS	keep	201.8	2026-11-07T03:06:30	A4 local UB correction (cap 12000 nodes, <=3 rounds): 0.0688; UB +1.8 %, LB -4.7 %; 3.5 s (max 7.6)
+13	baa4a6f	0.069647	PASS	discard	184.7	2026-11-07T03:10:02	anytime alternation (4 s deadline): 0.0696, no gain; rounds stop because windows exceed caps, not time
+14	42f295a	0.060086	PASS	keep	224.3	2026-11-07T03:13:56	LB window capped hottest-first (not skipped): 0.0601; LB -3.8 %; 4.1 s (max 8.3)
+15	f3f607d	0.060086	PASS	discard	244.7	2026-11-07T03:18:34	Clarabel qdldl: same 0.0601, slower (4.5 vs 4.1 s)
+16	cfb6660	0.059353	PASS	discard	237.2	2026-11-07T03:22:52	reallocate time to 7 LB rounds: 0.0594 (-0.0007 < 0.001); local LB iteration saturates near -3.8 %
+17	ebc1e44	0.058538	PASS	keep	235.2	2026-11-07T03:26:58	wider LB windows (theta 0.9, dil 2, cap 6000): 0.0585; LB -3.7 %; 4.35 s (max 8.4)
+18	f840f13	0.058075	PASS	discard	227.1	2026-11-07T03:31:05	wider UB window (99 %, cap 15000): 0.0581 (-0.0005); UB saturates at +1.8 %
+19	581ac12	0.060915	PASS	discard	220.8	2026-11-07T03:35:03	dual-informed UB window: 0.0609 (+0.0024, worse); bigger windows hit caps
+20	f53f444		MISSING	crash	47.5	2026-11-07T03:38:15	ablation cold start: crash (combine_ub with a single field); trivial fix, re-run as 21
+21	6298340	0.321673	PASS	discard	122.2	2026-11-07T03:38:16	ABLATION cold start (trivial fields, same refinement): 0.3217; UB +27.8 %, LB -14.3 % -> the network warm start is what makes local refinement work
+22	803b81e	0.058538	PASS	keep	228.7	2026-11-07T03:51:50	post-loop correctness fix: exact geometric mirroring (non-uniform real-scan grids); validation metric unchanged
+0	803b81e	0.07		heldout		2026-11-07T04:01:11	hybrid on held-out: test 7.0 % (UB +2.1, LB -4.6), real scans 5.2 %, ~4.3 s/plate, all 92 certified (v1 had 1 rejected: mirror bug, fixed)

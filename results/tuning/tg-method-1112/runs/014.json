@@ -1,0 +1,22 @@
+{
+  "run": 14,
+  "commit": "202787e",
+  "returncode": 0,
+  "timed_out": false,
+  "elapsed_s": 604.9,
+  "metric": 0.022211,
+  "gates": "FAIL G3 time mean 15.06s max 22.64s",
+  "outcome": "gate_fail",
+  "summary": {
+    "mean_gap": "0.022211",
+    "gates": "FAIL G3 time mean 15.06s max 22.64s",
+    "runtime_s": "604.3",
+    "median_gap": "0.017906",
+    "max_gap": "0.082064",
+    "time_mean_s": "15.06",
+    "time_max_s": "22.64",
+    "lb_deficit": "0.013649",
+    "ub_excess": "0.002646"
+  },
+  "log": "loops/tg-method-1112/runs/014/run.log"
+}

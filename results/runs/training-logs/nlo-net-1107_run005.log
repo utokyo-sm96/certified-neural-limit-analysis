@@ -1,0 +1,53 @@
+---- training log (tail)
+step   3230    271s  ub 0.8656  lb 0.6603  gap 0.2371
+step   3586    301s  ub 0.8644  lb 0.6811  gap 0.2120
+step   3927    331s  ub 0.8590  lb 0.6953  gap 0.1906
+step   4263    361s  ub 0.8629  lb 0.7004  gap 0.1883
+step   4610    391s  ub 0.8505  lb 0.6911  gap 0.1874
+step   4959    421s  ub 0.8502  lb 0.6885  gap 0.1902
+step   5310    451s  ub 0.8469  lb 0.6952  gap 0.1791
+done: 5650 steps in 480s, saved /home/oldlinux/Research_Projects/Corrosion/PaperX/cnla/data/nlo_ckpt.pt
+G1 uniform strip: UB/(sy W t)=1.00270  LB/(sy W t)=0.99060  []
+syn0022  net gap  19.01%  hybrid UB  304.93 LB  271.81 kN gap  10.86% (UB +4.54%, LB -6.42%)   3.1s 
+syn0062  net gap  15.00%  hybrid UB  207.30 LB  190.34 kN gap   8.18% (UB +3.00%, LB -4.61%)   3.6s 
+syn0070  net gap  16.13%  hybrid UB  217.11 LB  193.23 kN gap  11.00% (UB +4.56%, LB -6.14%)   2.4s 
+syn0098  net gap  13.16%  hybrid UB  197.61 LB  180.49 kN gap   8.67% (UB +4.90%, LB -3.82%)   3.2s 
+syn0113  net gap   6.75%  hybrid UB  212.70 LB  203.83 kN gap   4.17% (UB +1.98%, LB -1.78%)   3.7s 
+syn0142  net gap  15.35%  hybrid UB  170.48 LB  152.04 kN gap  10.82% (UB +4.75%, LB -6.03%)   3.2s 
+syn0161  net gap  35.13%  hybrid UB  146.51 LB  111.65 kN gap  23.79% (UB +13.26%, LB -12.94%)   2.3s 
+syn0182  net gap   4.84%  hybrid UB  329.14 LB  317.82 kN gap   3.44% (UB +1.82%, LB -1.49%)   3.2s 
+syn0203  net gap  18.53%  hybrid UB  273.69 LB  260.09 kN gap   4.97% (UB +1.56%, LB -3.13%)   6.2s 
+syn0260  net gap  10.45%  hybrid UB  253.81 LB  236.54 kN gap   6.80% (UB +3.10%, LB -3.43%)   3.1s 
+syn0295  net gap  35.28%  hybrid UB  145.31 LB  119.28 kN gap  17.92% (UB +9.31%, LB -9.11%)   3.1s 
+syn0297  net gap  15.39%  hybrid UB  217.55 LB  199.52 kN gap   8.29% (UB +5.02%, LB -3.18%)   2.7s 
+syn0313  net gap  16.77%  hybrid UB  191.30 LB  167.98 kN gap  12.19% (UB +7.09%, LB -5.50%)   2.8s 
+syn0341  net gap  10.35%  hybrid UB  298.23 LB  278.82 kN gap   6.51% (UB +4.59%, LB -1.92%)   3.0s 
+syn0371  net gap  15.60%  hybrid UB  199.47 LB  178.04 kN gap  10.74% (UB +6.31%, LB -4.69%)   2.4s 
+syn0396  net gap  26.51%  hybrid UB  216.22 LB  183.10 kN gap  15.32% (UB +9.25%, LB -6.82%)   2.8s 
+syn0397  net gap  13.75%  hybrid UB  321.21 LB  292.02 kN gap   9.09% (UB +6.54%, LB -2.91%)   2.3s 
+syn0419  net gap  13.55%  hybrid UB  183.98 LB  166.94 kN gap   9.26% (UB +3.75%, LB -5.29%)   3.1s 
+syn0428  net gap  11.04%  hybrid UB  322.40 LB  297.65 kN gap   7.68% (UB +3.02%, LB -4.44%)   2.6s 
+syn0454  net gap   8.46%  hybrid UB  223.26 LB  212.30 kN gap   4.91% (UB +2.12%, LB -2.44%)   3.7s 
+syn0532  net gap  15.79%  hybrid UB  201.28 LB  178.81 kN gap  11.17% (UB +7.32%, LB -4.25%)   2.8s 
+syn0563  net gap  16.83%  hybrid UB  300.25 LB  271.68 kN gap   9.52% (UB +4.24%, LB -5.28%)   3.3s 
+syn0736  net gap  36.24%  hybrid UB  205.81 LB  156.77 kN gap  23.83% (UB +21.64%, LB -6.34%)   3.1s 
+syn0769  net gap  69.22%  hybrid UB  105.75 LB   81.15 kN gap  23.26% (UB +3.26%, LB -20.10%)   5.2s 
+syn0827  net gap  12.39%  hybrid UB  292.57 LB  269.61 kN gap   7.85% (UB +4.94%, LB -2.90%)   4.0s 
+syn0834  net gap  12.45%  hybrid UB  186.51 LB  168.33 kN gap   9.75% (UB +5.88%, LB -4.07%)   2.5s 
+syn0853  net gap   9.65%  hybrid UB  226.65 LB  214.08 kN gap   5.55% (UB +2.69%, LB -2.63%)   2.9s 
+syn0857  net gap  10.54%  hybrid UB  316.57 LB  294.83 kN gap   6.87% (UB +3.90%, LB -2.83%)   3.7s 
+syn0872  net gap   7.38%  hybrid UB  217.62 LB  208.24 kN gap   4.31% (UB +1.96%, LB -1.90%)   3.0s 
+syn0873  net gap   9.77%  hybrid UB  208.47 LB  196.43 kN gap   5.77% (UB +2.76%, LB -2.63%)   3.7s 
+syn0899  net gap  10.45%  hybrid UB  330.86 LB  304.71 kN gap   7.90% (UB +3.42%, LB -4.46%)   2.7s 
+syn0903  net gap  21.27%  hybrid UB  203.77 LB  179.40 kN gap  11.96% (UB +7.67%, LB -4.52%)   3.2s 
+---
+gap_mean: 0.100729
+gates: PASS
+runtime_s: 740.2
+net_gap_mean: 0.172828
+gap_max: 0.238273
+ub_excess_mean: 0.053169
+lb_deficit_mean: 0.049373
+time_mean_s: 3.208
+train_s: 483.7
+train_steps: 5650

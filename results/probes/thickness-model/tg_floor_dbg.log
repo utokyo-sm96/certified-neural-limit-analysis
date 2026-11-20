@@ -1,0 +1,4 @@
+syn0022 AlmostSolved 334 s; IP LB 289215.5 N; ratio vs cap 1.000000, vs bilinear 1.048019
+exact ratio 1.000000 at owner tri 38400 lam [0. 0. 1.] t_g 12.7897 cap [12.68011618 12.86574918 12.78967643]  f 12.7897  fv [12.68011599 12.86574899 12.78967634]
+to_res lb 275964.1; v2 lb 275964.1; info {k: info[k] for k in ('yield_ratio', 'yield_ratio_v2', 'lb_v1') if k in info} []
+{'yield_ratio': 1.0, 'lb_v1': 275964.06246620114, 'yield_ratio_v2': 0.9541815744511588}

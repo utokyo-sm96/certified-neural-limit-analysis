@@ -1,0 +1,9 @@
+init from data/nlo_ckpt_100k.pt; new parameters: ['head_f.weight', 'head_f.bias']
+step    845     60s  ub 0.8649  lb 0.7764  gap 0.1024
+step   1701    120s  ub 0.8451  lb 0.7545  gap 0.1072
+step   2544    180s  ub 0.8432  lb 0.7664  gap 0.0910
+step   3391    240s  ub 0.8437  lb 0.7726  gap 0.0842
+step   4235    300s  ub 0.8352  lb 0.7642  gap 0.0850
+step   5079    360s  ub 0.8268  lb 0.7598  gap 0.0811
+step   5931    420s  ub 0.8420  lb 0.7753  gap 0.0792
+done: 6000 steps in 425s, saved data/nlo_ft6k_fvs1_s1.pt

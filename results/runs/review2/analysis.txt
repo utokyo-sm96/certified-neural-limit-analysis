@@ -1,0 +1,69 @@
+val: n=32 net 12.08 % (1.23 s)  full 2.314 % (13.82 s)  FE L0 2.35 % (20.0 s)  ref 0.61 %  cheap [-15.9 %, +1.25 %] (0.71 s)  verify method 1.54/1.53 s, FE L0 0.29 s
+  ttt 5 % solver  : method 28/32 median 3.0 s; FE 32 median 20.1 s; ratio 6.4 (28)
+  ttt 5 % verified: method 28/32 median 6.0 s; FE 32 median 20.4 s; ratio 3.1 (28)
+  ttt 2 % solver  : method 20/32 median 9.9 s; FE 32 median 28.5 s; ratio 2.2 (20)
+  ttt 2 % verified: method 20/32 median 13.0 s; FE 32 median 28.9 s; ratio 1.7 (20)
+  ttt 1 % solver  : method 4/32 median 10.9 s; FE 28 median 56.4 s; ratio 3.4 (4)
+  ttt 1 % verified: method 4/32 median 13.9 s; FE 28 median 56.8 s; ratio 2.7 (4)
+  rho 0.70 sol: net 94 %  method 100 %  cheap 97 %  method 1.3 s  cheap 0.6 s  FE 20.0 s  x15.9 (cheap x31.6)  wrong 0  fe-nan 0
+  rho 0.70 ver: net 94 %  method 100 %  cheap 97 %  method 2.8 s  cheap 0.8 s  FE 20.1 s  x7.2 (cheap x26.4)  wrong 0  fe-nan 0
+  rho 0.80 sol: net 91 %  method 100 %  cheap 78 %  method 1.6 s  cheap 3.8 s  FE 20.0 s  x12.9 (cheap x5.2)  wrong 0  fe-nan 0
+  rho 0.80 ver: net 91 %  method 100 %  cheap 78 %  method 3.1 s  cheap 4.0 s  FE 20.1 s  x6.5 (cheap x5.1)  wrong 0  fe-nan 0
+  rho 0.90 sol: net 75 %  method 100 %  cheap 12 %  method 2.0 s  cheap 17.3 s  FE 20.0 s  x9.8 (cheap x1.2)  wrong 0  fe-nan 0
+  rho 0.90 ver: net 75 %  method 100 %  cheap 12 %  method 3.6 s  cheap 17.4 s  FE 20.1 s  x5.6 (cheap x1.2)  wrong 0  fe-nan 0
+  rho 0.95 sol: net 28 %  method 94 %  cheap 3 %  method 5.5 s  cheap 19.2 s  FE 20.0 s  x3.6 (cheap x1.0)  wrong 0  fe-nan 0
+  rho 0.95 ver: net 28 %  method 94 %  cheap 3 %  method 7.0 s  cheap 19.4 s  FE 20.1 s  x2.9 (cheap x1.0)  wrong 0  fe-nan 0
+  rho 1.05 sol: net 88 %  method 100 %  cheap 97 %  method 1.7 s  cheap 1.8 s  FE 20.6 s  x11.8 (cheap x11.4)  wrong 0  fe-nan 0
+  rho 1.05 ver: net 88 %  method 100 %  cheap 97 %  method 3.3 s  cheap 2.0 s  FE 20.7 s  x6.3 (cheap x10.4)  wrong 0  fe-nan 0
+  rho 1.10 sol: net 97 %  method 100 %  cheap 100 %  method 1.2 s  cheap 0.7 s  FE 20.0 s  x16.2 (cheap x28.1)  wrong 0  fe-nan 0
+  rho 1.10 ver: net 97 %  method 100 %  cheap 100 %  method 2.8 s  cheap 0.9 s  FE 20.2 s  x7.3 (cheap x22.4)  wrong 0  fe-nan 0
+  rho 1.20 sol: net 100 %  method 100 %  cheap 100 %  method 1.2 s  cheap 0.7 s  FE 20.0 s  x16.2 (cheap x28.1)  wrong 0  fe-nan 0
+  rho 1.20 ver: net 100 %  method 100 %  cheap 100 %  method 2.8 s  cheap 0.9 s  FE 20.2 s  x7.3 (cheap x22.4)  wrong 0  fe-nan 0
+  rho 1.30 sol: net 100 %  method 100 %  cheap 100 %  method 1.2 s  cheap 0.7 s  FE 20.0 s  x16.2 (cheap x28.1)  wrong 0  fe-nan 0
+  rho 1.30 ver: net 100 %  method 100 %  cheap 100 %  method 2.8 s  cheap 0.9 s  FE 20.2 s  x7.3 (cheap x22.4)  wrong 0  fe-nan 0
+test: n=64 net 13.96 % (1.21 s)  full 2.575 % (14.00 s)  FE L0 2.54 % (19.6 s)  ref 0.62 %  cheap [-17.1 %, +1.46 %] (0.70 s)  verify method 1.47/1.48 s, FE L0 0.29 s
+  ttt 5 % solver  : method 59/64 median 5.5 s; FE 64 median 19.5 s; ratio 3.8 (59)
+  ttt 5 % verified: method 59/64 median 8.1 s; FE 64 median 19.7 s; ratio 2.6 (59)
+  ttt 2 % solver  : method 30/64 median 9.7 s; FE 62 median 25.4 s; ratio 2.1 (30)
+  ttt 2 % verified: method 30/64 median 12.6 s; FE 62 median 25.7 s; ratio 1.6 (30)
+  ttt 1 % solver  : method 5/64 median 10.4 s; FE 59 median 58.1 s; ratio 3.3 (5)
+  ttt 1 % verified: method 5/64 median 13.4 s; FE 59 median 58.5 s; ratio 2.6 (5)
+  rho 0.70 sol: net 94 %  method 100 %  cheap 95 %  method 1.4 s  cheap 0.9 s  FE 19.6 s  x14.5 (cheap x23.0)  wrong 0  fe-nan 0
+  rho 0.70 ver: net 94 %  method 100 %  cheap 95 %  method 2.8 s  cheap 1.0 s  FE 19.8 s  x7.0 (cheap x20.2)  wrong 0  fe-nan 0
+  rho 0.80 sol: net 91 %  method 100 %  cheap 70 %  method 1.4 s  cheap 5.5 s  FE 19.6 s  x14.3 (cheap x3.6)  wrong 0  fe-nan 0
+  rho 0.80 ver: net 91 %  method 100 %  cheap 70 %  method 2.8 s  cheap 5.6 s  FE 19.8 s  x6.9 (cheap x3.5)  wrong 0  fe-nan 0
+  rho 0.90 sol: net 62 %  method 100 %  cheap 14 %  method 2.0 s  cheap 16.6 s  FE 19.6 s  x9.7 (cheap x1.2)  wrong 0  fe-nan 0
+  rho 0.90 ver: net 62 %  method 100 %  cheap 14 %  method 3.5 s  cheap 16.8 s  FE 19.8 s  x5.6 (cheap x1.2)  wrong 0  fe-nan 0
+  rho 0.95 sol: net 28 %  method 97 %  cheap 0 %  method 5.0 s  cheap 19.6 s  FE 19.6 s  x4.0 (cheap x1.0)  wrong 0  fe-nan 0
+  rho 0.95 ver: net 28 %  method 97 %  cheap 0 %  method 6.4 s  cheap 19.8 s  FE 19.8 s  x3.1 (cheap x1.0)  wrong 0  fe-nan 0
+  rho 1.05 sol: net 84 %  method 100 %  cheap 95 %  method 2.8 s  cheap 2.9 s  FE 21.0 s  x7.6 (cheap x7.4)  wrong 0  fe-nan 0
+  rho 1.05 ver: net 84 %  method 100 %  cheap 95 %  method 4.3 s  cheap 3.0 s  FE 21.2 s  x5.0 (cheap x7.0)  wrong 0  fe-nan 0
+  rho 1.10 sol: net 95 %  method 100 %  cheap 98 %  method 1.3 s  cheap 1.1 s  FE 19.8 s  x14.8 (cheap x17.7)  wrong 0  fe-nan 0
+  rho 1.10 ver: net 95 %  method 100 %  cheap 98 %  method 2.8 s  cheap 1.3 s  FE 20.0 s  x7.1 (cheap x15.3)  wrong 0  fe-nan 0
+  rho 1.20 sol: net 97 %  method 100 %  cheap 100 %  method 1.2 s  cheap 0.7 s  FE 19.6 s  x16.2 (cheap x27.9)  wrong 0  fe-nan 0
+  rho 1.20 ver: net 97 %  method 100 %  cheap 100 %  method 2.7 s  cheap 0.9 s  FE 19.8 s  x7.4 (cheap x22.2)  wrong 0  fe-nan 0
+  rho 1.30 sol: net 100 %  method 100 %  cheap 100 %  method 1.2 s  cheap 0.7 s  FE 19.6 s  x16.2 (cheap x27.9)  wrong 0  fe-nan 0
+  rho 1.30 ver: net 100 %  method 100 %  cheap 100 %  method 2.7 s  cheap 0.9 s  FE 19.8 s  x7.4 (cheap x22.2)  wrong 0  fe-nan 0
+real: n=28 net 8.18 % (1.22 s)  full 1.692 % (12.48 s)  FE L0 1.46 % (19.6 s)  ref 0.39 %  cheap [-13.1 %, +0.86 %] (0.73 s)  verify method 1.53/1.52 s, FE L0 0.30 s
+  ttt 5 % solver  : method 28/28 median 2.3 s; FE 28 median 19.6 s; ratio 8.5 (28)
+  ttt 5 % verified: method 28/28 median 5.4 s; FE 28 median 19.9 s; ratio 3.8 (28)
+  ttt 2 % solver  : method 19/28 median 8.3 s; FE 28 median 20.6 s; ratio 2.4 (19)
+  ttt 2 % verified: method 19/28 median 11.3 s; FE 28 median 20.9 s; ratio 1.8 (19)
+  ttt 1 % solver  : method 6/28 median 10.7 s; FE 28 median 46.1 s; ratio 2.7 (6)
+  ttt 1 % verified: method 6/28 median 13.8 s; FE 28 median 46.6 s; ratio 2.0 (6)
+  rho 0.70 sol: net 100 %  method 100 %  cheap 100 %  method 1.2 s  cheap 0.0 s  FE 19.6 s  x16.1 (cheap x18008.2)  wrong 0  fe-nan 0
+  rho 0.70 ver: net 100 %  method 100 %  cheap 100 %  method 2.7 s  cheap 0.1 s  FE 19.7 s  x7.2 (cheap x149.6)  wrong 0  fe-nan 0
+  rho 0.80 sol: net 93 %  method 100 %  cheap 89 %  method 1.2 s  cheap 1.9 s  FE 19.6 s  x16.0 (cheap x10.1)  wrong 0  fe-nan 0
+  rho 0.80 ver: net 93 %  method 100 %  cheap 89 %  method 2.8 s  cheap 2.1 s  FE 19.7 s  x7.2 (cheap x9.6)  wrong 0  fe-nan 0
+  rho 0.90 sol: net 86 %  method 100 %  cheap 21 %  method 1.3 s  cheap 15.2 s  FE 19.6 s  x15.1 (cheap x1.3)  wrong 0  fe-nan 0
+  rho 0.90 ver: net 86 %  method 100 %  cheap 21 %  method 2.8 s  cheap 15.3 s  FE 19.7 s  x7.0 (cheap x1.3)  wrong 0  fe-nan 0
+  rho 0.95 sol: net 64 %  method 100 %  cheap 0 %  method 2.2 s  cheap 19.6 s  FE 19.6 s  x8.9 (cheap x1.0)  wrong 0  fe-nan 0
+  rho 0.95 ver: net 64 %  method 100 %  cheap 0 %  method 3.7 s  cheap 19.7 s  FE 19.7 s  x5.3 (cheap x1.0)  wrong 0  fe-nan 0
+  rho 1.05 sol: net 93 %  method 100 %  cheap 100 %  method 1.5 s  cheap 0.7 s  FE 19.6 s  x12.8 (cheap x26.7)  wrong 0  fe-nan 0
+  rho 1.05 ver: net 93 %  method 100 %  cheap 100 %  method 3.1 s  cheap 0.9 s  FE 19.8 s  x6.5 (cheap x21.3)  wrong 0  fe-nan 0
+  rho 1.10 sol: net 100 %  method 100 %  cheap 100 %  method 1.2 s  cheap 0.7 s  FE 19.6 s  x16.1 (cheap x26.7)  wrong 0  fe-nan 0
+  rho 1.10 ver: net 100 %  method 100 %  cheap 100 %  method 2.7 s  cheap 0.9 s  FE 19.8 s  x7.2 (cheap x21.3)  wrong 0  fe-nan 0
+  rho 1.20 sol: net 100 %  method 100 %  cheap 100 %  method 1.2 s  cheap 0.7 s  FE 19.6 s  x16.1 (cheap x26.7)  wrong 0  fe-nan 0
+  rho 1.20 ver: net 100 %  method 100 %  cheap 100 %  method 2.7 s  cheap 0.9 s  FE 19.8 s  x7.2 (cheap x21.3)  wrong 0  fe-nan 0
+  rho 1.30 sol: net 100 %  method 100 %  cheap 100 %  method 1.2 s  cheap 0.7 s  FE 19.6 s  x16.1 (cheap x26.7)  wrong 0  fe-nan 0
+  rho 1.30 ver: net 100 %  method 100 %  cheap 100 %  method 2.7 s  cheap 0.9 s  FE 19.8 s  x7.2 (cheap x21.3)  wrong 0  fe-nan 0

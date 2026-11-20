@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Certified neural limit analysis: neural operators with rigorous lower and upper bounds on plastic collapse loads"
+authors:
+  - family-names: Maharjan
+    given-names: Shreejan
+    affiliation: "Department of Civil Engineering, The University of Tokyo"
+  - family-names: Chun
+    given-names: Pang-jo
+    affiliation: "Department of Civil Engineering and Institute of Engineering Innovation, The University of Tokyo"
+    email: chun@g.ecc.u-tokyo.ac.jp
+version: v1.0.0
+date-released: 2026-11-20
+repository-code: "https://github.com/utokyo-sm96/certified-neural-limit-analysis"
+license: MIT

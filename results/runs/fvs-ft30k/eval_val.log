@@ -1,0 +1,1 @@
+nlo_fvs_ft30k.pt fvs=True: split val n=32 certified=True  network gap 8.56%  (UB +2.19%, LB -6.14%)  0.056 s/plate

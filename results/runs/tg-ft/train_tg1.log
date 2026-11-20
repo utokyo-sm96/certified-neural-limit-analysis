@@ -1,0 +1,15 @@
+NLO_TG: loss on t_g, cache (904, 4, 41297)
+init from data/nlo_fvs_ft30k.pt; new parameters: []
+step    585     60s  ub 0.8494  lb 0.7441  gap 0.1239
+step   1103    120s  ub 0.8400  lb 0.7324  gap 0.1281
+step   1611    180s  ub 0.8376  lb 0.7354  gap 0.1220
+step   2102    240s  ub 0.8476  lb 0.7497  gap 0.1154
+step   2597    300s  ub 0.8464  lb 0.7511  gap 0.1125
+step   3078    360s  ub 0.8513  lb 0.7589  gap 0.1086
+step   3569    421s  ub 0.8480  lb 0.7609  gap 0.1027
+step   4061    481s  ub 0.8435  lb 0.7630  gap 0.0954
+step   4484    541s  ub 0.8331  lb 0.7455  gap 0.1052
+step   4988    601s  ub 0.8315  lb 0.7466  gap 0.1021
+step   5484    661s  ub 0.8369  lb 0.7577  gap 0.0946
+step   5960    721s  ub 0.8202  lb 0.7397  gap 0.0981
+done: 6000 steps in 725s, saved data/nlo_tgft6k_tg1.pt

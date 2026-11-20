@@ -1,0 +1,23 @@
+validation plates: 32; FE level 3-4 times scaled by 1/1.53 (loaded -> idle)
+ demand    net   <=1s   <=5s   full  to FE FE undec | triage s FE-stop s FE-ref s speed-up
+   0.70    94%    97%   100%   100%     0%       0% |      0.3      20.4    147.3    69.1x
+   0.80    91%    91%    97%   100%     0%       0% |      0.6      20.4    147.3    31.7x
+   0.90    75%    81%    94%   100%     0%       0% |      1.2      20.4    147.3    16.9x
+   0.95    28%    34%    78%    97%     3%       0% |      4.6      20.4    147.3     4.4x
+   1.05    88%    88%    94%   100%     0%       0% |      0.9      20.9    147.3    23.8x
+   1.10    97%   100%   100%   100%     0%       0% |      0.2      20.4    147.3    84.4x
+   1.20   100%   100%   100%   100%     0%       0% |      0.2      20.4    147.3    84.4x
+   1.30   100%   100%   100%   100%     0%       0% |      0.2      20.4    147.3    84.4x
+wrong decisions against the FE reference: 0
+
+real scans (demand relative to the FE mid-bracket): share decided by the network alone / by the full method
+ demand |  Ananai: control  unseen bridge |  Amarube: control  unseen bridge
+   0.70 |       94% / 100%     78% / 100% |       100% / 100%    100% / 100%
+   0.80 |       94% / 100%     72% / 100% |       100% / 100%    100% / 100%
+   0.90 |       72% / 100%     50% / 100% |       100% / 100%    100% / 100%
+   0.95 |       28% / 100%     22% /  94% |        60% / 100%     30% / 100%
+   1.05 |       89% / 100%     72% / 100% |       100% / 100%    100% / 100%
+   1.10 |      100% / 100%     89% / 100% |       100% / 100%    100% / 100%
+   1.20 |      100% / 100%    100% / 100% |       100% / 100%    100% / 100%
+   1.30 |      100% / 100%    100% / 100% |       100% / 100%    100% / 100%
+wrong decisions on the real scans against the FE reference: 0

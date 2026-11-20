@@ -1,0 +1,18 @@
+run	commit	metric	gates	status	runtime_s	timestamp	description
+1	e68b190	0.238367	PASS	baseline	556.6	2026-11-06T22:05:08	baseline: U-Net, cumsum-softmax velocity, AiryFit target stresses, tau 0.01, 480 s
+2	e68b190	0.259467	PASS	baseline	557.1	2026-11-06T22:14:56	baseline repeat (same code+seed): noise estimate
+3	1a410c4	0.224851	PASS	discard	556.1	2026-11-06T22:28:07	global section features: 0.2249 (-0.0135 < noise); UB excess 9.8->7.5 %, LB unchanged; near-miss
+4	44b4123	0.202979	PASS	keep	554.8	2026-11-06T22:38:11	deeper U-Net (4 levels, 16x5 bottleneck): 0.2030; UB +7.1 %, LB -14.7 %
+5	7fac916	0.203885	PASS	discard	558.5	2026-11-06T22:47:47	LR 2e-3: 0.2039 (no change); learning rate is not the limiter
+6	eee9bbe	0.166799	PASS	keep	557.1	2026-11-06T22:57:48	TAU 0.01->0.003 (isolated stress spikes bind the LB): 0.1668; UB +5.7 %, LB -11.8 %
+7	f2a025d	0.176825	PASS	discard	557.2	2026-11-06T23:07:13	TAU 0.001: 0.1768 (+0.010); 0.003 is about right
+8	996f461	0.167468	PASS	discard	560.6	2026-11-06T23:16:57	target scaled by t_min: 0.1675 (+0.001), LB -11.4 % (within noise)
+9	90085b0	0.170236	PASS	discard	559.3	2026-11-06T23:26:45	separate decoders for v and N*: 0.1702 (+0.003); no interference to remove
+10	6048d74	0.161603	PASS	keep	557.4	2026-11-06T23:36:22	batch 4: 0.1616 (-0.005, within noise) but steps/s +91 % -> keep by pre-set tie-break
+11	1ee716d	0.167566	PASS	discard	558.5	2026-11-06T23:46:05	velocity logits x4: 0.1676 (+0.006); UB +6.0 % (no gain)
+12	39be090	0.167874	PASS	discard	557.6	2026-11-06T23:55:40	global section features on deeper net: 0.1679 (+0.006); subsumed by the 16x5 bottleneck
+13	25f45be	0.189586	PASS	discard	557.7	2026-11-07T00:05:21	log-ratio loss: 0.1896 (+0.028, worse); UB +8.0 %: the absolute loss is better
+14	50e62d1	0.164024	PASS	discard	556.8	2026-11-07T00:14:55	EMA 0.998: 0.1640 (+0.002); no gain with cosine-to-zero LR
+15	cce24ec	0.190774	PASS	discard	557.8	2026-11-07T00:24:30	width 48: 0.1908 (+0.029, worse); 4042 steps: step-limited, not capacity-limited
+16	4edfd15	0.174167	PASS	discard	557.1	2026-11-07T00:34:18	3x3 smoothing of stress ratio: 0.1742 (+0.013); sharp ratio variations are needed
+0	673ad76	0.126		heldout		2026-11-07T01:45:01	final model (30k steps): test gap 12.6 %, real scans 9.4 %, val 10.9 %; all certified; tensile MAPE 2.8 %

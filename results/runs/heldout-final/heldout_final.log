@@ -1,0 +1,106 @@
+synthetic-test syn0042: net   4.7%  fast  2.33% (7.3s)  full  1.53% (16.7s)  FE 0.56%  certified
+synthetic-test syn0043: net   5.8%  fast  2.60% (6.2s)  full  1.26% (15.1s)  FE 0.23%  certified
+synthetic-test syn0056: net   5.1%  fast  1.81% (6.5s)  full  1.13% (14.6s)  FE 0.73%  certified
+synthetic-test syn0063: net   3.7%  fast  1.65% (6.0s)  full  1.28% (17.0s)  FE 0.34%  certified
+synthetic-test syn0067: net   6.8%  fast  2.33% (4.7s)  full  1.09% (11.7s)  FE 0.46%  certified
+synthetic-test syn0068: net   3.8%  fast  1.98% (6.3s)  full  1.19% (14.3s)  FE 0.33%  certified
+synthetic-test syn0076: net  11.3%  fast  6.09% (3.9s)  full  3.07% (11.8s)  FE 1.02%  certified
+synthetic-test syn0088: net  23.9%  fast 10.17% (5.6s)  full  5.68% (14.0s)  FE 0.48%  certified
+synthetic-test syn0100: net   7.1%  fast  3.93% (6.5s)  full  1.55% (16.2s)  FE 0.27%  certified
+synthetic-test syn0103: net  11.4%  fast  4.50% (4.5s)  full  2.21% (12.6s)  FE 0.78%  certified
+synthetic-test syn0106: net   4.3%  fast  1.46% (7.4s)  full  0.78% (15.7s)  FE 0.35%  certified
+synthetic-test syn0108: net  16.2%  fast  4.77% (4.5s)  full  2.33% (11.9s)  FE 0.53%  certified
+synthetic-test syn0134: net   5.4%  fast  1.79% (5.4s)  full  0.70% (12.3s)  FE 0.39%  certified
+synthetic-test syn0173: net   6.3%  fast  2.18% (4.8s)  full  1.50% (11.2s)  FE 0.49%  certified
+synthetic-test syn0183: net   3.7%  fast  1.42% (6.0s)  full  0.64% (13.4s)  FE 0.46%  certified
+synthetic-test syn0200: net   5.1%  fast  1.78% (6.8s)  full  0.41% (14.6s)  FE 0.35%  certified
+synthetic-test syn0202: net  11.3%  fast  5.11% (3.8s)  full  2.58% (11.1s)  FE 0.62%  certified
+synthetic-test syn0221: net  14.3%  fast  4.04% (4.7s)  full  2.35% (12.5s)  FE 0.63%  certified
+synthetic-test syn0262: net   8.4%  fast  3.26% (6.4s)  full  1.63% (14.0s)  FE 0.62%  certified
+synthetic-test syn0264: net   5.0%  fast  1.93% (5.1s)  full  1.00% (12.7s)  FE 0.31%  certified
+synthetic-test syn0305: net  13.7%  fast  9.30% (6.0s)  full  8.33% (12.7s)  FE 0.62%  certified
+synthetic-test syn0308: net   8.0%  fast  3.76% (4.9s)  full  1.22% (13.2s)  FE 0.45%  certified
+synthetic-test syn0319: net  45.4%  fast 15.25% (5.0s)  full  4.89% (12.3s)  FE 0.31%  certified
+synthetic-test syn0373: net   9.0%  fast  3.11% (6.1s)  full  2.02% (14.3s)  FE 0.46%  certified
+synthetic-test syn0382: net  11.3%  fast  4.79% (4.5s)  full  2.58% (12.1s)  FE 1.00%  certified
+synthetic-test syn0389: net   5.4%  fast  2.82% (6.5s)  full  2.35% (16.5s)  FE 0.40%  certified
+synthetic-test syn0391: net   4.8%  fast  1.80% (6.9s)  full  1.27% (15.9s)  FE 0.44%  certified
+synthetic-test syn0395: net   7.3%  fast  2.06% (6.5s)  full  0.93% (14.1s)  FE 0.44%  certified
+synthetic-test syn0420: net  10.6%  fast  4.65% (6.0s)  full  2.18% (14.1s)  FE 0.68%  certified
+synthetic-test syn0437: net   8.4%  fast  3.66% (5.6s)  full  1.74% (14.3s)  FE 0.50%  certified
+synthetic-test syn0492: net   2.9%  fast  0.86% (6.3s)  full  0.57% (14.3s)  FE 0.22%  certified
+synthetic-test syn0499: net   7.8%  fast  3.83% (5.1s)  full  1.92% (13.5s)  FE 0.63%  certified
+synthetic-test syn0573: net  72.6%  fast 17.11% (4.1s)  full  6.37% (10.3s)  FE 1.40%  certified
+synthetic-test syn0578: net   7.5%  fast  3.57% (4.8s)  full  2.20% (13.1s)  FE 0.66%  certified
+synthetic-test syn0579: net   4.5%  fast  1.70% (7.0s)  full  0.64% (14.0s)  FE 0.38%  certified
+synthetic-test syn0602: net   8.3%  fast  3.23% (6.3s)  full  1.52% (14.3s)  FE 0.61%  certified
+synthetic-test syn0640: net   6.2%  fast  2.50% (4.8s)  full  1.43% (13.4s)  FE 0.44%  certified
+synthetic-test syn0642: net   3.9%  fast  1.50% (7.0s)  full  1.71% (14.8s)  FE 0.68%  certified
+synthetic-test syn0665: net  11.4%  fast  3.32% (4.4s)  full  1.28% (13.1s)  FE 0.28%  certified
+synthetic-test syn0672: net   6.2%  fast  3.02% (6.5s)  full  2.31% (15.4s)  FE 0.53%  certified
+synthetic-test syn0693: net  16.6%  fast  7.66% (5.1s)  full  3.86% (12.6s)  FE 0.56%  certified
+synthetic-test syn0703: net  18.9%  fast  9.19% (4.1s)  full  5.18% (11.5s)  FE 1.45%  certified
+synthetic-test syn0742: net   6.9%  fast  2.85% (6.5s)  full  0.83% (14.7s)  FE 0.36%  certified
+synthetic-test syn0768: net  28.1%  fast 10.51% (6.0s)  full  8.19% (12.9s)  FE 0.66%  certified
+synthetic-test syn0773: net   4.5%  fast  1.81% (8.3s)  full  1.18% (18.6s)  FE 0.41%  certified
+synthetic-test syn0778: net   9.5%  fast  3.91% (4.8s)  full  2.91% (12.4s)  FE 0.57%  certified
+synthetic-test syn0790: net   6.2%  fast  2.05% (6.0s)  full  0.96% (14.5s)  FE 0.39%  certified
+synthetic-test syn0836: net   3.9%  fast  1.24% (7.4s)  full  0.60% (14.8s)  FE 0.32%  certified
+synthetic-test syn0848: net  11.5%  fast  4.94% (5.6s)  full  3.46% (12.7s)  FE 0.58%  certified
+synthetic-test syn0850: net   8.4%  fast  4.89% (4.5s)  full  2.84% (12.5s)  FE 0.51%  certified
+synthetic-test syn0855: net   7.5%  fast  3.17% (5.1s)  full  1.31% (13.7s)  FE 0.38%  certified
+synthetic-test syn0858: net   5.1%  fast  2.04% (7.0s)  full  2.37% (15.2s)  FE 0.69%  certified
+synthetic-test syn0870: net   5.3%  fast  1.64% (6.3s)  full  0.89% (13.7s)  FE 0.21%  certified
+synthetic-test syn0875: net  14.6%  fast  7.70% (3.4s)  full  3.10% (10.3s)  FE 0.33%  certified
+synthetic-test syn0889: net   7.5%  fast  3.52% (5.9s)  full  1.59% (13.7s)  FE 0.45%  certified
+synthetic-test syn0891: net   9.6%  fast  5.81% (4.4s)  full  1.92% (12.2s)  FE 0.80%  certified
+synthetic-test syn0935: net   7.3%  fast  2.76% (6.2s)  full  3.13% (13.4s)  FE 0.28%  certified
+synthetic-test syn0947: net   9.5%  fast  3.32% (6.6s)  full  2.89% (14.4s)  FE 0.34%  certified
+synthetic-test syn0951: net   8.8%  fast  3.41% (5.8s)  full  1.61% (13.2s)  FE 0.55%  certified
+synthetic-test syn0959: net  13.3%  fast  4.04% (3.5s)  full  2.66% (10.5s)  FE 0.53%  certified
+synthetic-test syn0966: net   4.4%  fast  1.78% (7.1s)  full  1.12% (15.6s)  FE 0.43%  certified
+synthetic-test syn0975: net  27.5%  fast 12.30% (3.7s)  full  2.00% (11.1s)  FE 1.45%  certified
+synthetic-test syn0987: net   4.4%  fast  1.86% (7.2s)  full  0.84% (13.7s)  FE 0.33%  certified
+synthetic-test syn0999: net   7.9%  fast  3.87% (6.3s)  full  2.97% (14.4s)  FE 0.89%  certified
+real-scan      AN-01: net   9.8%  fast  4.35% (6.5s)  full  2.41% (14.1s)  FE 0.48%  certified
+real-scan      AN-03: net   6.6%  fast  2.52% (6.2s)  full  1.58% (14.7s)  FE 0.48%  certified
+real-scan      AN-05: net  22.1%  fast  4.93% (7.6s)  full  1.11% (14.0s)  FE 0.62%  certified
+real-scan      AN-06: net   3.3%  fast  1.62% (7.3s)  full  1.43% (17.6s)  FE 0.37%  certified
+real-scan      AN-07: net   4.8%  fast  2.53% (5.8s)  full  2.07% (17.0s)  FE 0.43%  certified
+real-scan      AN-08: net   2.9%  fast  1.18% (7.6s)  full  0.68% (18.0s)  FE 0.47%  certified
+real-scan      AN-09: net   8.1%  fast  2.58% (6.4s)  full  1.06% (14.6s)  FE 0.32%  certified
+real-scan      AN-11: net   9.3%  fast  4.81% (5.6s)  full  2.36% (14.6s)  FE 0.46%  certified
+real-scan      AN-12: net   6.3%  fast  1.55% (5.6s)  full  0.76% (13.2s)  FE 0.39%  certified
+real-scan      AN-13: net   6.5%  fast  2.70% (5.9s)  full  1.98% (13.4s)  FE 0.41%  certified
+real-scan      AN-14: net   3.0%  fast  1.51% (7.4s)  full  1.30% (17.7s)  FE 0.29%  certified
+real-scan      AN-15: net   9.3%  fast  4.28% (4.5s)  full  1.09% (11.6s)  FE 0.38%  certified
+real-scan      AN-16: net   4.9%  fast  2.16% (5.7s)  full  1.43% (14.1s)  FE 0.31%  certified
+real-scan      AN-17: net  14.1%  fast  5.00% (4.7s)  full  2.82% (11.9s)  FE 0.45%  certified
+real-scan      AN-18: net   8.0%  fast  3.43% (4.0s)  full  2.93% (10.8s)  FE 0.42%  certified
+real-scan      AN-19: net   8.1%  fast  3.68% (3.7s)  full  2.03% (11.5s)  FE 0.48%  certified
+real-scan      AN-20: net  27.0%  fast 10.77% (5.1s)  full  2.90% (12.7s)  FE 0.30%  certified
+real-scan      AN-21: net   3.6%  fast  1.12% (7.0s)  full  0.70% (14.7s)  FE 0.42%  certified
+real-scan      AM-01: net   5.3%  fast  2.93% (6.7s)  full  1.28% (14.8s)  FE 0.22%  certified
+real-scan      AM-02: net   6.2%  fast  1.99% (5.4s)  full  1.15% (12.7s)  FE 0.34%  certified
+real-scan      AM-03: net   5.5%  fast  1.97% (4.4s)  full  0.78% (11.7s)  FE 0.31%  certified
+real-scan      AM-04: net   2.7%  fast  0.80% (6.3s)  full  0.38% (14.1s)  FE 0.26%  certified
+real-scan      AM-05: net   4.8%  fast  1.41% (4.2s)  full  1.10% (11.1s)  FE 0.30%  certified
+real-scan      AM-06: net   4.7%  fast  1.19% (6.9s)  full  0.50% (14.7s)  FE 0.29%  certified
+real-scan      AM-07: net   4.5%  fast  1.58% (6.9s)  full  0.52% (15.7s)  FE 0.34%  certified
+real-scan      AM-08: net   3.5%  fast  1.49% (4.3s)  full  0.99% (11.5s)  FE 0.25%  certified
+real-scan      AM-09: net   5.0%  fast  2.21% (5.2s)  full  1.29% (13.1s)  FE 0.33%  certified
+real-scan      AM-10: net   4.7%  fast  1.65% (5.7s)  full  0.52% (14.1s)  FE 0.36%  certified
+---
+synthetic-test: n=64  adaptive FE gap mean 0.54%
+  network  certified 64/64  consistent 64/64  gap mean 10.40% (median 7.52%, max 72.6%)  UB +3.37%  LB -7.20%  time 0.05 s (max 0.1)
+  fast     certified 64/64  consistent 64/64  gap mean 4.11% (median 3.25%, max 17.1%)  UB +1.14%  LB -2.53%  time 5.68 s (max 8.3)
+  full     certified 64/64  consistent 64/64  gap mean 2.18% (median 1.67%, max 8.3%)  UB +0.59%  LB -1.08%  time 13.62 s (max 18.6)
+real-scan: n=28  adaptive FE gap mean 0.37%
+  network  certified 28/28  consistent 28/28  gap mean 7.30% (median 5.44%, max 27.0%)  UB +2.17%  LB -5.00%  time 0.05 s (max 0.1)
+  fast     certified 28/28  consistent 28/28  gap mean 2.78% (median 2.18%, max 10.8%)  UB +0.82%  LB -1.64%  time 5.80 s (max 7.6)
+  full     certified 28/28  consistent 28/28  gap mean 1.40% (median 1.22%, max 2.9%)  UB +0.38%  LB -0.65%  time 13.91 s (max 18.0)
+tensile tests (n=18) FE      : measured / mid-bracket = 0.983 +- 0.025, MAPE 2.6%, measured inside bracket 1/18
+tensile tests (n=18) network : measured / mid-bracket = 1.001 +- 0.036, MAPE 2.6%, measured inside bracket 13/18
+tensile tests (n=18) fast    : measured / mid-bracket = 0.987 +- 0.026, MAPE 2.5%, measured inside bracket 6/18
+tensile tests (n=18) full    : measured / mid-bracket = 0.985 +- 0.025, MAPE 2.5%, measured inside bracket 3/18
+wrote ../results/runs/heldout-final/heldout_final.csv

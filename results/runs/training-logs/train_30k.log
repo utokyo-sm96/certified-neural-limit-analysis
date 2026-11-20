@@ -1,0 +1,14 @@
+loaded 904 training plates in 0.1s
+params 5.14M
+step   1215    300s  ub 0.9048  lb 0.6638  gap 0.2664
+step   2357    600s  ub 0.8901  lb 0.6979  gap 0.2159
+step   3504    900s  ub 0.8728  lb 0.6935  gap 0.2054
+step   4651   1200s  ub 0.8561  lb 0.7066  gap 0.1746
+step   5888   1500s  ub 0.8634  lb 0.7268  gap 0.1582
+step   9483   1801s  ub 0.8577  lb 0.7308  gap 0.1479
+step  13176   2101s  ub 0.8518  lb 0.7374  gap 0.1343
+step  16863   2401s  ub 0.8520  lb 0.7363  gap 0.1358
+step  20581   2701s  ub 0.8469  lb 0.7517  gap 0.1125
+step  24271   3001s  ub 0.8442  lb 0.7539  gap 0.1070
+step  27974   3301s  ub 0.8312  lb 0.7428  gap 0.1063
+done: 30000 steps in 3465s, saved data/nlo_ckpt_final.pt

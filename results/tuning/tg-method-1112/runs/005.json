@@ -1,0 +1,22 @@
+{
+  "run": 5,
+  "commit": "5deb46f",
+  "returncode": 0,
+  "timed_out": false,
+  "elapsed_s": 589.8,
+  "metric": 0.025335,
+  "gates": "PASS",
+  "outcome": "ok",
+  "summary": {
+    "mean_gap": "0.025335",
+    "gates": "PASS",
+    "runtime_s": "589.1",
+    "median_gap": "0.019388",
+    "max_gap": "0.088710",
+    "time_mean_s": "14.59",
+    "time_max_s": "17.48",
+    "lb_deficit": "0.015950",
+    "ub_excess": "0.003549"
+  },
+  "log": "loops/tg-method-1112/runs/005/run.log"
+}

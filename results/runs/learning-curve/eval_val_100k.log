@@ -1,0 +1,35 @@
+syn0022: net 7.87%  hybrid 4.24%  7.5s  yes
+syn0062: net 7.37%  hybrid 4.12%  10.2s  yes
+syn0070: net 9.79%  hybrid 4.74%  6.6s  yes
+syn0098: net 5.89%  hybrid 3.81%  3.5s  yes
+syn0113: net 5.18%  hybrid 2.84%  2.9s  yes
+syn0142: net 8.69%  hybrid 5.06%  7.7s  yes
+syn0161: net 20.39%  hybrid 14.19%  2.4s  yes
+syn0182: net 3.72%  hybrid 2.30%  2.3s  yes
+syn0203: net 8.69%  hybrid 3.26%  4.3s  yes
+syn0260: net 4.93%  hybrid 2.54%  6.6s  yes
+syn0295: net 16.32%  hybrid 9.03%  8.3s  yes
+syn0297: net 6.75%  hybrid 3.11%  6.0s  yes
+syn0313: net 6.82%  hybrid 3.37%  5.4s  yes
+syn0341: net 4.66%  hybrid 2.23%  3.6s  yes
+syn0371: net 7.54%  hybrid 4.33%  6.7s  yes
+syn0396: net 11.60%  hybrid 6.01%  6.0s  yes
+syn0397: net 4.53%  hybrid 2.29%  3.3s  yes
+syn0419: net 7.18%  hybrid 5.10%  2.1s  yes
+syn0428: net 5.81%  hybrid 3.61%  3.6s  yes
+syn0454: net 4.98%  hybrid 3.62%  3.1s  yes
+syn0532: net 7.13%  hybrid 3.25%  5.1s  yes
+syn0563: net 8.94%  hybrid 4.85%  3.2s  yes
+syn0736: net 15.52%  hybrid 10.15%  4.6s  yes
+syn0769: net 56.45%  hybrid 17.89%  4.4s  yes
+syn0827: net 5.94%  hybrid 2.87%  7.8s  yes
+syn0834: net 5.26%  hybrid 3.06%  4.6s  yes
+syn0853: net 5.63%  hybrid 3.76%  2.1s  yes
+syn0857: net 6.18%  hybrid 3.61%  8.6s  yes
+syn0872: net 4.39%  hybrid 2.33%  2.5s  yes
+syn0873: net 5.11%  hybrid 2.86%  8.4s  yes
+syn0899: net 4.46%  hybrid 2.57%  7.7s  yes
+syn0903: net 9.47%  hybrid 5.17%  4.8s  yes
+---
+split val n=32 certified=True
+network gap mean 9.16%   hybrid gap mean 4.75%  (UB +1.20%, LB -3.12%)  time 5.19 s/plate

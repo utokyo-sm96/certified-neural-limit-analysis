@@ -1,0 +1,36 @@
+syn0022: network gap 8.73 % (LB def 6.81, UB ex 1.62)  full gap 1.578 % (LB def 0.98, UB ex 0.14) 15.0 s  
+syn0062: network gap 8.33 % (LB def 6.30, UB ex 1.28)  full gap 2.003 % (LB def 1.03, UB ex 0.07) 17.3 s  
+syn0070: network gap 12.50 % (LB def 9.93, UB ex 1.79)  full gap 3.193 % (LB def 1.89, UB ex 0.22) 14.8 s  
+syn0098: network gap 6.22 % (LB def 4.10, UB ex 1.81)  full gap 1.684 % (LB def 0.83, UB ex 0.42) 15.6 s  
+syn0113: network gap 4.84 % (LB def 3.21, UB ex 1.21)  full gap 1.630 % (LB def 0.71, UB ex 0.44) 17.6 s  
+syn0142: network gap 11.20 % (LB def 8.57, UB ex 2.25)  full gap 2.471 % (LB def 1.28, UB ex 0.52) 14.8 s  
+syn0161: network gap 20.49 % (LB def 12.23, UB ex 9.27)  full gap 6.932 % (LB def 3.97, UB ex 2.14) 15.1 s  
+syn0182: network gap 4.17 % (LB def 2.94, UB ex 1.07)  full gap 0.995 % (LB def 0.46, UB ex 0.33) 19.3 s  
+syn0203: network gap 11.13 % (LB def 7.54, UB ex 3.61)  full gap 2.343 % (LB def 1.43, UB ex 0.51) 11.9 s  
+syn0260: network gap 5.64 % (LB def 4.23, UB ex 0.95)  full gap 1.079 % (LB def 0.55, UB ex -0.01) 15.3 s  
+syn0295: network gap 21.20 % (LB def 15.15, UB ex 5.95)  full gap 9.392 % (LB def 6.72, UB ex 1.30) 15.0 s  
+syn0297: network gap 7.64 % (LB def 4.88, UB ex 2.40)  full gap 2.143 % (LB def 1.33, UB ex 0.26) 15.0 s  
+syn0313: network gap 7.26 % (LB def 5.28, UB ex 1.57)  full gap 1.514 % (LB def 0.85, UB ex 0.12) 13.7 s  
+syn0341: network gap 4.29 % (LB def 3.03, UB ex 0.99)  full gap 0.649 % (LB def 0.36, UB ex -0.02) 13.0 s  
+syn0371: network gap 7.26 % (LB def 4.57, UB ex 2.41)  full gap 1.809 % (LB def 0.98, UB ex 0.37) 16.5 s  
+syn0396: network gap 14.43 % (LB def 10.60, UB ex 3.59)  full gap 3.063 % (LB def 1.93, UB ex 0.32) 13.9 s  
+syn0397: network gap 4.59 % (LB def 3.25, UB ex 1.15)  full gap 1.211 % (LB def 0.75, UB ex 0.22) 13.9 s  
+syn0419: network gap 7.70 % (LB def 5.04, UB ex 2.22)  full gap 2.124 % (LB def 0.91, UB ex 0.59) 17.2 s  
+syn0428: network gap 6.06 % (LB def 4.35, UB ex 1.16)  full gap 2.045 % (LB def 1.20, UB ex 0.22) 18.7 s  
+syn0454: network gap 5.33 % (LB def 3.38, UB ex 1.55)  full gap 1.748 % (LB def 0.74, UB ex 0.52) 18.7 s  
+syn0532: network gap 7.09 % (LB def 4.61, UB ex 2.21)  full gap 1.060 % (LB def 0.40, UB ex 0.21) 14.5 s  
+syn0563: network gap 7.93 % (LB def 5.12, UB ex 2.58)  full gap 1.906 % (LB def 1.05, UB ex 0.41) 17.1 s  
+syn0736: network gap 21.57 % (LB def 16.47, UB ex 5.22)  full gap 7.029 % (LB def 4.38, UB ex 1.61) 13.0 s  
+syn0769: network gap 56.57 % (LB def 53.87, UB ex 5.24)  full gap 9.107 % (LB def 6.80, UB ex 1.60) 14.4 s  
+syn0827: network gap 8.23 % (LB def 5.36, UB ex 2.67)  full gap 1.345 % (LB def 0.84, UB ex 0.07) 16.4 s  
+syn0834: network gap 6.64 % (LB def 4.63, UB ex 1.75)  full gap 2.668 % (LB def 1.73, UB ex 0.57) 15.8 s  
+syn0853: network gap 5.93 % (LB def 4.29, UB ex 1.29)  full gap 1.094 % (LB def 0.45, UB ex 0.21) 17.2 s  
+syn0857: network gap 7.34 % (LB def 5.28, UB ex 1.81)  full gap 1.975 % (LB def 0.98, UB ex 0.61) 17.7 s  
+syn0872: network gap 4.35 % (LB def 3.15, UB ex 0.71)  full gap 1.329 % (LB def 0.76, UB ex 0.04) 17.0 s  
+syn0873: network gap 6.03 % (LB def 4.55, UB ex 1.01)  full gap 1.117 % (LB def 0.52, UB ex 0.05) 16.3 s  
+syn0899: network gap 4.56 % (LB def 3.16, UB ex 1.14)  full gap 0.976 % (LB def 0.50, UB ex 0.16) 17.2 s  
+syn0903: network gap 10.40 % (LB def 7.57, UB ex 2.35)  full gap 2.077 % (LB def 1.17, UB ex 0.13) 13.8 s  
+---
+ckpt cnla/data/nlo_tgft6k_tg1.pt: 32 plates, errors 0
+network: gap 10.176 %  LB deficit 7.608 %  UB excess 2.370 %
+full: gap 2.540 % (median 1.857, max 9.392)  LB deficit 1.515 %  UB excess 0.448 %  time 15.71 s (max 19.28)

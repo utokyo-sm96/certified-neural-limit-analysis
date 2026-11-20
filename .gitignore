@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+cnla/data/*
+!cnla/data/README.md
+loops/

@@ -1,0 +1,18 @@
+   snapshots (ADMM s -> repaired deficit %, repair s): 2s: 0.80% (3.6s)  5s: 0.53% (2.9s)  10s: 0.85% (3.2s)  20s: 0.22% (3.6s)  30s: 0.24% (3.5s)
+   ADMM last iterate: objective deficit -0.84% at max yield ratio 1.040 -> scaled 3.07% -> after 2.3 s local repair 0.24% (yes)
+syn0903: LB deficit vs FE  hybrid 1.56% -> ADMM 5s 1.56  10s 1.56  30s 1.56 (verified 1.56%) | floor -0.07% | 154 it, 0.195 s/it, factorisation 9.9s | yes
+   snapshots (ADMM s -> repaired deficit %, repair s): 2s: 0.76% (3.0s)  5s: 0.24% (3.3s)  10s: 0.15% (3.2s)  20s: 0.22% (3.1s)  30s: 0.19% (3.3s)
+   ADMM last iterate: objective deficit -0.38% at max yield ratio 1.064 -> scaled 5.67% -> after 2.3 s local repair 0.19% (yes)
+syn0899: LB deficit vs FE  hybrid 1.16% -> ADMM 5s 1.16  10s 1.16  30s 1.16 (verified 1.16%) | floor -0.02% | 152 it, 0.197 s/it, factorisation 10.4s | yes
+   snapshots (ADMM s -> repaired deficit %, repair s): 2s: 18.62% (3.5s)  5s: 3.42% (3.4s)  10s: 1.04% (3.1s)  20s: 3.16% (3.0s)  30s: 1.54% (3.3s)
+   ADMM last iterate: objective deficit -1.94% at max yield ratio 1.340 -> scaled 23.90% -> after 2.3 s local repair 1.92% (yes)
+syn0769: LB deficit vs FE  hybrid 9.44% -> ADMM 5s 9.44  10s 9.44  30s 9.44 (verified 9.44%) | floor -0.33% | 152 it, 0.197 s/it, factorisation 10.2s | yes
+   snapshots (ADMM s -> repaired deficit %, repair s): 2s: 4.19% (3.4s)  5s: 2.89% (3.1s)  10s: 1.76% (2.2s)  20s: 0.72% (2.9s)  30s: 0.71% (3.0s)
+   ADMM last iterate: objective deficit -1.93% at max yield ratio 1.227 -> scaled 16.91% -> after 2.3 s local repair 0.71% (yes)
+syn0736: LB deficit vs FE  hybrid 5.94% -> ADMM 5s 5.94  10s 5.94  30s 5.94 (verified 5.94%) | floor -0.72% | 153 it, 0.197 s/it, factorisation 10.0s | yes
+   snapshots (ADMM s -> repaired deficit %, repair s): 2s: 7.88% (3.3s)  5s: 2.59% (3.5s)  10s: 2.82% (3.2s)  20s: 2.51% (3.0s)  30s: 2.10% (3.6s)
+   ADMM last iterate: objective deficit -1.96% at max yield ratio 1.202 -> scaled 15.17% -> after 2.3 s local repair 2.10% (yes)
+syn0161: LB deficit vs FE  hybrid 3.90% -> ADMM 5s 3.90  10s 3.90  30s 3.90 (verified 3.90%) | floor -0.26% | 152 it, 0.198 s/it, factorisation 9.8s | yes
+   snapshots (ADMM s -> repaired deficit %, repair s): 2s: 16.05% (3.0s)  5s: 3.90% (3.5s)  10s: 3.83% (3.3s)  20s: 3.30% (3.1s)  30s: 2.52% (3.0s)
+   ADMM last iterate: objective deficit -2.29% at max yield ratio 1.606 -> scaled 36.30% -> after 2.3 s local repair 2.52% (yes)
+syn0295: LB deficit vs FE  hybrid 4.13% -> ADMM 5s 4.13  10s 4.13  30s 4.13 (verified 4.13%) | floor -0.44% | 151 it, 0.199 s/it, factorisation 9.7s | yes

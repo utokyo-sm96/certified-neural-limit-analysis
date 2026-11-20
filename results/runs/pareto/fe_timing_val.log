@@ -1,0 +1,9 @@
+syn0022: gap 0.425%  56.8s  yes
+syn0113: gap 0.499%  57.6s  yes
+syn0260: gap 0.495%  46.6s  yes
+syn0341: gap 0.303%  43.4s  yes
+syn0428: gap 0.473%  85.3s  yes
+syn0736: gap 1.072%  47.4s  yes
+syn0857: gap 0.416%  55.9s  yes
+syn0903: gap 0.721%  42.3s  yes
+--- FE single process: gap mean 0.551%  time mean 54.4s  median 51.7s

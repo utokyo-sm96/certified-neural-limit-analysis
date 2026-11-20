@@ -1,0 +1,14 @@
+init from data/nlo_fvs_ft30k.pt; new parameters: []
+step    597     60s  ub 0.8547  lb 0.7841  gap 0.0826
+step   1111    120s  ub 0.8481  lb 0.7660  gap 0.0969
+step   1619    180s  ub 0.8406  lb 0.7633  gap 0.0920
+step   2108    240s  ub 0.8425  lb 0.7755  gap 0.0796
+step   2605    300s  ub 0.8531  lb 0.7712  gap 0.0960
+step   3084    360s  ub 0.8596  lb 0.7731  gap 0.1007
+step   3575    420s  ub 0.8485  lb 0.7824  gap 0.0779
+step   4066    480s  ub 0.8375  lb 0.7754  gap 0.0741
+step   4488    541s  ub 0.8347  lb 0.7685  gap 0.0793
+step   4992    601s  ub 0.8326  lb 0.7701  gap 0.0751
+step   5492    661s  ub 0.8338  lb 0.7731  gap 0.0729
+step   5967    721s  ub 0.8230  lb 0.7615  gap 0.0747
+done: 6000 steps in 725s, saved data/nlo_tgft6k_tg0.pt

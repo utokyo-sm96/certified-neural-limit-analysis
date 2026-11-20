@@ -1,0 +1,125 @@
+val   syn0022: fibre LB 244.4 kN (1 ms), grid UB 293.9 kN (1.05 s); L0 1.54% 29s  L1 1.11% 51s  L2 0.68% 83s
+val   syn0062: fibre LB 165.4 kN (1 ms), grid UB 202.4 kN (0.79 s); L0 2.31% 21s  L1 1.68% 37s  L2 1.15% 62s  L3 0.98% 101s
+val   syn0070: fibre LB 167.9 kN (1 ms), grid UB 210.1 kN (0.60 s); L0 3.39% 18s  L1 2.43% 36s  L2 1.65% 56s  L3 1.25% 87s  L4 1.11% 135s
+val   syn0098: fibre LB 156.0 kN (1 ms), grid UB 190.1 kN (0.60 s); L0 1.69% 17s  L1 1.12% 32s  L2 0.64% 51s
+val   syn0113: fibre LB 191.7 kN (1 ms), grid UB 209.8 kN (0.69 s); L0 1.31% 24s  L1 0.94% 46s
+val   syn0142: fibre LB 123.7 kN (1 ms), grid UB 164.3 kN (0.57 s); L0 2.65% 16s  L1 1.84% 32s  L2 1.08% 52s  L3 0.79% 80s
+val   syn0161: fibre LB 90.4 kN (1 ms), grid UB 132.3 kN (0.61 s); L0 4.98% 14s  L1 3.48% 28s  L2 1.88% 45s  L3 1.24% 71s  L4 1.01% 108s
+val   syn0182: fibre LB 307.9 kN (1 ms), grid UB 323.8 kN (0.70 s); L0 0.43% 25s
+val   syn0203: fibre LB 225.8 kN (1 ms), grid UB 274.6 kN (0.79 s); L0 3.44% 24s  L1 2.87% 44s  L2 1.39% 71s  L3 0.67% 110s
+val   syn0260: fibre LB 216.1 kN (1 ms), grid UB 247.5 kN (0.54 s); L0 1.43% 15s  L1 1.05% 30s  L2 0.69% 49s
+val   syn0295: fibre LB 92.7 kN (1 ms), grid UB 137.8 kN (0.74 s); L0 6.70% 18s  L1 4.77% 36s  L2 2.61% 56s  L3 1.82% 86s  L4 1.60% 132s
+val   syn0297: fibre LB 180.0 kN (1 ms), grid UB 210.5 kN (0.60 s); L0 2.80% 20s  L1 1.99% 43s  L2 1.13% 66s  L3 0.72% 99s
+val   syn0313: fibre LB 151.1 kN (1 ms), grid UB 180.6 kN (0.65 s); L0 2.03% 14s  L1 1.44% 29s  L2 0.81% 52s
+val   syn0341: fibre LB 260.2 kN (1 ms), grid UB 287.0 kN (0.63 s); L0 1.12% 18s  L1 0.79% 36s
+val   syn0371: fibre LB 159.5 kN (1 ms), grid UB 189.2 kN (0.91 s); L0 1.73% 18s  L1 1.16% 35s  L2 0.69% 57s
+val   syn0396: fibre LB 155.7 kN (1 ms), grid UB 201.7 kN (0.69 s); L0 3.76% 15s  L1 2.60% 34s  L2 1.42% 59s  L3 0.99% 91s
+val   syn0397: fibre LB 270.6 kN (1 ms), grid UB 303.8 kN (0.90 s); L0 1.21% 29s  L1 0.89% 54s
+val   syn0419: fibre LB 145.3 kN (1 ms), grid UB 178.7 kN (0.62 s); L0 1.95% 18s  L1 1.43% 33s  L2 0.88% 56s
+val   syn0428: fibre LB 275.8 kN (1 ms), grid UB 314.0 kN (0.93 s); L0 1.07% 28s  L1 0.83% 53s
+val   syn0454: fibre LB 192.3 kN (1 ms), grid UB 219.9 kN (0.77 s); L0 1.38% 24s  L1 1.03% 51s  L2 0.67% 77s
+val   syn0532: fibre LB 156.4 kN (1 ms), grid UB 190.2 kN (0.62 s); L0 2.22% 16s  L1 1.49% 34s  L2 0.75% 58s
+val   syn0563: fibre LB 240.9 kN (1 ms), grid UB 289.8 kN (0.90 s); L0 1.48% 25s  L1 1.05% 52s  L2 0.64% 83s
+val   syn0736: fibre LB 118.8 kN (1 ms), grid UB 174.6 kN (0.83 s); L0 6.45% 22s  L1 4.62% 40s  L2 2.63% 66s  L3 1.62% 104s  L4 1.21% 155s
+val   syn0769: fibre LB 68.5 kN (1 ms), grid UB 105.2 kN (0.81 s); L0 4.88% 20s  L1 3.45% 38s  L2 1.83% 60s  L3 1.14% 94s  L4 0.92% 139s
+val   syn0827: fibre LB 237.8 kN (1 ms), grid UB 279.9 kN (0.62 s); L0 1.33% 21s  L1 0.92% 37s
+val   syn0834: fibre LB 154.4 kN (1 ms), grid UB 179.1 kN (0.55 s); L0 2.32% 14s  L1 1.79% 29s  L2 0.91% 49s
+val   syn0853: fibre LB 193.5 kN (1 ms), grid UB 222.1 kN (0.79 s); L0 1.41% 21s  L1 1.02% 39s  L2 0.59% 70s
+val   syn0857: fibre LB 272.3 kN (1 ms), grid UB 305.9 kN (0.75 s); L0 1.19% 22s  L1 0.83% 40s
+val   syn0872: fibre LB 195.2 kN (1 ms), grid UB 214.2 kN (0.62 s); L0 1.15% 20s  L1 0.84% 38s
+val   syn0873: fibre LB 173.1 kN (1 ms), grid UB 204.1 kN (0.61 s); L0 1.55% 18s  L1 1.15% 35s  L2 0.75% 58s
+val   syn0899: fibre LB 275.6 kN (1 ms), grid UB 321.8 kN (0.70 s); L0 0.98% 21s
+val   syn0903: fibre LB 145.6 kN (1 ms), grid UB 192.4 kN (0.59 s); L0 3.37% 17s  L1 2.34% 32s  L2 1.26% 53s  L3 0.88% 82s
+test  syn0042: fibre LB 173.4 kN (1 ms), grid UB 203.4 kN (0.57 s); L0 1.78% 18s  L1 1.34% 35s  L2 0.93% 59s
+test  syn0043: fibre LB 253.8 kN (1 ms), grid UB 294.5 kN (0.82 s); L0 0.68% 18s
+test  syn0056: fibre LB 192.5 kN (1 ms), grid UB 218.0 kN (0.61 s); L0 1.40% 18s  L1 1.07% 34s  L2 0.85% 57s
+test  syn0063: fibre LB 200.9 kN (1 ms), grid UB 220.7 kN (0.68 s); L0 1.22% 19s  L1 0.91% 37s
+test  syn0067: fibre LB 149.8 kN (1 ms), grid UB 181.9 kN (0.63 s); L0 2.10% 15s  L1 1.40% 30s  L2 0.76% 51s
+test  syn0068: fibre LB 311.2 kN (1 ms), grid UB 347.3 kN (0.70 s); L0 1.11% 25s  L1 0.71% 46s
+test  syn0076: fibre LB 134.0 kN (1 ms), grid UB 186.6 kN (0.67 s); L0 4.06% 17s  L1 3.13% 34s  L2 1.91% 57s  L3 1.34% 90s  L4 1.14% 137s
+test  syn0088: fibre LB 115.2 kN (1 ms), grid UB 167.6 kN (0.81 s); L0 2.48% 18s  L1 1.64% 34s  L2 0.87% 57s
+test  syn0100: fibre LB 218.6 kN (1 ms), grid UB 253.7 kN (1.00 s); L0 0.98% 22s
+test  syn0103: fibre LB 148.2 kN (1 ms), grid UB 195.8 kN (0.68 s); L0 4.17% 21s  L1 3.05% 38s  L2 1.67% 60s  L3 1.06% 95s  L4 0.88% 150s
+test  syn0106: fibre LB 185.8 kN (1 ms), grid UB 215.5 kN (0.67 s); L0 1.28% 23s  L1 0.90% 42s
+test  syn0108: fibre LB 100.9 kN (1 ms), grid UB 146.2 kN (0.60 s); L0 3.50% 17s  L1 2.42% 32s  L2 1.21% 50s  L3 0.73% 75s
+test  syn0134: fibre LB 171.8 kN (1 ms), grid UB 198.4 kN (0.54 s); L0 1.64% 15s  L1 1.14% 32s  L2 0.65% 54s
+test  syn0173: fibre LB 192.9 kN (1 ms), grid UB 228.5 kN (0.66 s); L0 2.31% 21s  L1 1.67% 39s  L2 0.91% 63s
+test  syn0183: fibre LB 220.4 kN (1 ms), grid UB 243.4 kN (0.58 s); L0 1.00% 17s
+test  syn0200: fibre LB 240.7 kN (1 ms), grid UB 278.2 kN (0.71 s); L0 1.23% 24s  L1 0.86% 46s
+test  syn0202: fibre LB 101.4 kN (1 ms), grid UB 127.3 kN (0.67 s); L0 4.13% 16s  L1 3.04% 31s  L2 1.68% 53s  L3 1.04% 79s  L4 0.77% 114s
+test  syn0221: fibre LB 126.4 kN (1 ms), grid UB 179.6 kN (0.62 s); L0 3.83% 16s  L1 2.74% 31s  L2 1.44% 53s  L3 0.92% 82s
+test  syn0262: fibre LB 152.8 kN (1 ms), grid UB 197.2 kN (0.64 s); L0 3.04% 18s  L1 2.18% 33s  L2 1.18% 56s  L3 0.79% 90s
+test  syn0264: fibre LB 286.0 kN (1 ms), grid UB 318.2 kN (0.85 s); L0 1.27% 23s  L1 0.91% 48s
+test  syn0305: fibre LB 138.0 kN (1 ms), grid UB 180.5 kN (0.72 s); L0 5.18% 19s  L1 4.20% 38s  L2 2.33% 62s  L3 1.33% 94s  L4 0.84% 136s
+test  syn0308: fibre LB 132.1 kN (1 ms), grid UB 171.0 kN (0.60 s); L0 2.18% 15s  L1 1.47% 30s  L2 0.81% 51s
+test  syn0319: fibre LB 72.9 kN (1 ms), grid UB 128.2 kN (0.70 s); L0 2.65% 17s  L1 1.53% 34s  L2 0.75% 57s
+test  syn0373: fibre LB 149.7 kN (1 ms), grid UB 187.9 kN (0.79 s); L0 2.36% 23s  L1 1.76% 41s  L2 0.97% 65s
+test  syn0382: fibre LB 116.2 kN (1 ms), grid UB 159.1 kN (0.59 s); L0 4.84% 16s  L1 3.86% 29s  L2 2.14% 48s  L3 1.32% 72s  L4 1.10% 104s
+test  syn0389: fibre LB 184.2 kN (1 ms), grid UB 210.8 kN (0.80 s); L0 1.43% 25s  L1 1.03% 48s  L2 0.64% 76s
+test  syn0391: fibre LB 178.7 kN (1 ms), grid UB 208.8 kN (0.84 s); L0 1.42% 20s  L1 1.00% 37s
+test  syn0395: fibre LB 183.9 kN (1 ms), grid UB 215.3 kN (0.62 s); L0 1.68% 19s  L1 1.18% 38s  L2 0.69% 64s
+test  syn0420: fibre LB 137.5 kN (1 ms), grid UB 196.9 kN (0.89 s); L0 3.36% 18s  L1 2.29% 33s  L2 1.25% 54s  L3 0.87% 87s
+test  syn0437: fibre LB 167.0 kN (1 ms), grid UB 209.8 kN (0.80 s); L0 2.49% 24s  L1 1.81% 46s  L2 0.92% 73s
+test  syn0492: fibre LB 312.7 kN (1 ms), grid UB 341.1 kN (0.70 s); L0 0.64% 24s
+test  syn0499: fibre LB 148.6 kN (1 ms), grid UB 181.1 kN (0.63 s); L0 2.04% 17s  L1 1.57% 35s  L2 0.98% 58s
+test  syn0573: fibre LB 64.4 kN (1 ms), grid UB 97.4 kN (0.51 s); L0 13.20% 14s  L1 9.17% 27s  L2 4.86% 45s  L3 3.10% 78s  L4 2.39% 119s
+test  syn0578: fibre LB 117.8 kN (1 ms), grid UB 145.8 kN (0.63 s); L0 2.23% 18s  L1 1.58% 34s  L2 0.94% 53s
+test  syn0579: fibre LB 234.2 kN (1 ms), grid UB 258.9 kN (0.64 s); L0 1.27% 21s  L1 0.90% 36s
+test  syn0602: fibre LB 169.5 kN (1 ms), grid UB 208.4 kN (0.66 s); L0 2.48% 20s  L1 1.75% 38s  L2 1.04% 62s  L3 0.76% 94s
+test  syn0640: fibre LB 232.8 kN (1 ms), grid UB 281.6 kN (0.96 s); L0 1.72% 24s  L1 1.24% 47s  L2 0.74% 79s
+test  syn0642: fibre LB 200.2 kN (1 ms), grid UB 224.3 kN (0.64 s); L0 1.58% 22s  L1 1.13% 45s  L2 0.84% 71s
+test  syn0665: fibre LB 138.8 kN (1 ms), grid UB 164.4 kN (0.71 s); L0 1.28% 17s  L1 0.86% 34s
+test  syn0672: fibre LB 262.2 kN (1 ms), grid UB 303.1 kN (0.57 s); L0 2.02% 18s  L1 1.43% 33s  L2 0.91% 58s
+test  syn0693: fibre LB 142.2 kN (1 ms), grid UB 186.8 kN (0.82 s); L0 4.09% 20s  L1 2.72% 39s  L2 1.33% 70s  L3 0.75% 107s
+test  syn0703: fibre LB 108.3 kN (1 ms), grid UB 156.7 kN (0.61 s); L0 9.19% 19s  L1 6.93% 35s  L2 4.02% 59s  L3 2.62% 89s  L4 2.07% 134s
+test  syn0742: fibre LB 213.8 kN (1 ms), grid UB 243.2 kN (0.74 s); L0 1.14% 19s  L1 0.78% 37s
+test  syn0768: fibre LB 114.5 kN (1 ms), grid UB 146.9 kN (0.62 s); L0 3.57% 17s  L1 2.84% 33s  L2 1.53% 54s  L3 1.01% 86s  L4 0.79% 133s
+test  syn0773: fibre LB 205.3 kN (1 ms), grid UB 228.5 kN (0.65 s); L0 1.00% 23s  L1 0.79% 41s
+test  syn0778: fibre LB 191.4 kN (1 ms), grid UB 233.5 kN (0.91 s); L0 3.11% 23s  L1 2.26% 45s  L2 1.20% 71s  L3 0.71% 109s
+test  syn0790: fibre LB 163.6 kN (1 ms), grid UB 203.1 kN (0.57 s); L0 1.80% 17s  L1 1.26% 35s  L2 0.71% 61s
+test  syn0836: fibre LB 269.6 kN (1 ms), grid UB 300.5 kN (0.60 s); L0 1.11% 18s  L1 0.77% 36s
+test  syn0848: fibre LB 136.4 kN (1 ms), grid UB 170.3 kN (0.63 s); L0 2.13% 17s  L1 1.65% 33s  L2 0.97% 53s
+test  syn0850: fibre LB 146.9 kN (1 ms), grid UB 177.3 kN (0.73 s); L0 2.55% 20s  L1 1.86% 39s  L2 1.07% 65s  L3 0.67% 106s
+test  syn0855: fibre LB 136.8 kN (1 ms), grid UB 176.5 kN (0.76 s); L0 1.72% 25s  L1 1.26% 42s  L2 0.74% 64s
+test  syn0858: fibre LB 177.3 kN (1 ms), grid UB 204.6 kN (0.56 s); L0 1.69% 22s  L1 1.23% 41s  L2 0.81% 65s
+test  syn0870: fibre LB 282.5 kN (1 ms), grid UB 317.4 kN (0.96 s); L0 0.80% 24s
+test  syn0875: fibre LB 111.9 kN (1 ms), grid UB 151.9 kN (0.85 s); L0 3.51% 21s  L1 2.57% 37s  L2 1.41% 57s  L3 0.79% 86s
+test  syn0889: fibre LB 151.2 kN (1 ms), grid UB 183.5 kN (0.82 s); L0 1.91% 21s  L1 1.32% 37s  L2 0.77% 57s
+test  syn0891: fibre LB 102.7 kN (1 ms), grid UB 133.3 kN (0.67 s); L0 3.57% 23s  L1 2.59% 41s  L2 1.47% 63s  L3 0.98% 92s
+test  syn0935: fibre LB 256.0 kN (1 ms), grid UB 301.8 kN (0.89 s); L0 1.35% 25s  L1 0.95% 52s
+test  syn0947: fibre LB 162.8 kN (1 ms), grid UB 199.1 kN (0.80 s); L0 1.84% 25s  L1 1.33% 50s  L2 0.68% 79s
+test  syn0951: fibre LB 124.3 kN (1 ms), grid UB 152.0 kN (0.70 s); L0 1.74% 18s  L1 1.24% 37s  L2 0.72% 61s
+test  syn0959: fibre LB 81.4 kN (1 ms), grid UB 103.8 kN (0.58 s); L0 3.53% 14s  L1 2.72% 33s  L2 1.41% 54s  L3 0.86% 82s
+test  syn0966: fibre LB 170.0 kN (1 ms), grid UB 193.0 kN (0.65 s); L0 1.34% 19s  L1 0.99% 33s
+test  syn0975: fibre LB 107.1 kN (1 ms), grid UB 172.2 kN (0.74 s); L0 6.99% 19s  L1 5.06% 36s  L2 2.75% 55s  L3 1.92% 87s  L4 1.60% 129s
+test  syn0987: fibre LB 263.1 kN (2 ms), grid UB 303.8 kN (0.71 s); L0 1.18% 18s  L1 0.83% 35s
+test  syn0999: fibre LB 152.3 kN (1 ms), grid UB 184.3 kN (0.71 s); L0 2.32% 19s  L1 1.69% 37s  L2 1.15% 65s  L3 0.93% 110s
+real  AN-01: fibre LB 126.2 kN (1 ms), grid UB 162.9 kN (0.64 s); L0 2.03% 16s  L1 1.42% 32s  L2 0.80% 54s
+real  AN-03: fibre LB 161.6 kN (1 ms), grid UB 194.4 kN (0.82 s); L0 2.02% 19s  L1 1.52% 36s  L2 0.90% 57s
+real  AN-05: fibre LB 124.8 kN (1 ms), grid UB 148.9 kN (0.71 s); L0 2.32% 19s  L1 1.64% 36s  L2 0.99% 59s
+real  AN-06: fibre LB 187.9 kN (1 ms), grid UB 204.5 kN (0.68 s); L0 0.98% 20s
+real  AN-07: fibre LB 186.4 kN (1 ms), grid UB 212.3 kN (0.75 s); L0 1.02% 24s  L1 0.74% 45s
+real  AN-08: fibre LB 206.2 kN (1 ms), grid UB 223.3 kN (0.56 s); L0 0.72% 20s
+real  AN-09: fibre LB 175.8 kN (1 ms), grid UB 207.3 kN (0.76 s); L0 1.21% 20s  L1 0.83% 38s
+real  AN-11: fibre LB 120.3 kN (1 ms), grid UB 151.0 kN (0.74 s); L0 2.19% 18s  L1 1.61% 35s  L2 0.92% 59s
+real  AN-12: fibre LB 157.5 kN (1 ms), grid UB 184.1 kN (0.67 s); L0 1.44% 18s  L1 1.06% 35s  L2 0.60% 59s
+real  AN-13: fibre LB 160.2 kN (1 ms), grid UB 195.0 kN (1.07 s); L0 1.66% 20s  L1 1.19% 38s  L2 0.71% 60s
+real  AN-14: fibre LB 204.0 kN (1 ms), grid UB 220.2 kN (0.65 s); L0 0.86% 21s
+real  AN-15: fibre LB 129.7 kN (1 ms), grid UB 158.9 kN (0.69 s); L0 1.79% 16s  L1 1.23% 32s  L2 0.65% 52s
+real  AN-16: fibre LB 186.6 kN (1 ms), grid UB 211.5 kN (0.68 s); L0 1.21% 21s  L1 0.85% 36s
+real  AN-17: fibre LB 120.2 kN (1 ms), grid UB 163.7 kN (0.68 s); L0 1.99% 20s  L1 1.47% 38s  L2 0.84% 61s
+real  AN-18: fibre LB 115.7 kN (1 ms), grid UB 144.0 kN (0.61 s); L0 2.16% 15s  L1 1.46% 28s  L2 0.71% 47s
+real  AN-19: fibre LB 140.5 kN (1 ms), grid UB 158.9 kN (0.75 s); L0 2.00% 20s  L1 1.45% 38s  L2 0.83% 60s
+real  AN-20: fibre LB 78.7 kN (1 ms), grid UB 103.9 kN (0.78 s); L0 2.02% 18s  L1 1.27% 34s  L2 0.62% 53s
+real  AN-21: fibre LB 197.5 kN (1 ms), grid UB 217.2 kN (0.63 s); L0 1.30% 19s  L1 0.97% 35s
+real  AM-01: fibre LB 254.4 kN (1 ms), grid UB 290.8 kN (0.83 s); L0 1.13% 19s  L1 0.75% 35s
+real  AM-02: fibre LB 204.3 kN (1 ms), grid UB 242.5 kN (0.85 s); L0 1.56% 19s  L1 1.04% 40s  L2 0.58% 65s
+real  AM-03: fibre LB 140.0 kN (1 ms), grid UB 164.8 kN (0.60 s); L0 1.43% 15s  L1 0.97% 29s
+real  AM-04: fibre LB 318.5 kN (1 ms), grid UB 337.7 kN (0.63 s); L0 0.81% 20s
+real  AM-05: fibre LB 279.5 kN (1 ms), grid UB 308.2 kN (0.89 s); L0 1.28% 25s  L1 0.91% 49s
+real  AM-06: fibre LB 246.4 kN (1 ms), grid UB 277.3 kN (0.72 s); L0 0.94% 22s
+real  AM-07: fibre LB 290.7 kN (1 ms), grid UB 329.1 kN (0.93 s); L0 0.94% 25s
+real  AM-08: fibre LB 246.6 kN (1 ms), grid UB 279.2 kN (0.62 s); L0 1.24% 19s  L1 0.85% 35s
+real  AM-09: fibre LB 222.5 kN (1 ms), grid UB 253.9 kN (0.95 s); L0 1.47% 22s  L1 1.04% 40s  L2 0.60% 66s
+real  AM-10: fibre LB 249.7 kN (1 ms), grid UB 279.8 kN (0.63 s); L0 1.02% 21s  L1 0.75% 37s
+done: 610 rows, errors 0

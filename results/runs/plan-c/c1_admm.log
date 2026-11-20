@@ -1,0 +1,13 @@
+offline setup 10.5s (zp, fvs)
+syn0903 [zp] hybrid 1.56% | 0.5s: 1.39%  1s: 1.56%  2s: 1.49%  3s: 1.46%  5s: 1.53%  10s: 1.56% | 255 it (39.3 ms/it), setup 0.02s, repair ~3.3s | certified True
+syn0903 [fvs] hybrid 1.56% | 0.5s: 1.47%  1s: 0.92%  2s: 0.62%  3s: 0.38%  5s: 0.21%  10s: 0.46% | 60 it (166.9 ms/it), setup 0.10s, repair ~3.5s | certified True
+syn0899 [zp] hybrid 1.08% | 0.5s: 1.08%  1s: 1.01%  2s: 0.83%  3s: 0.84%  5s: 0.84%  10s: 0.84% | 154 it (65.0 ms/it), setup 0.02s, repair ~3.5s | certified True
+syn0899 [fvs] hybrid 1.08% | 0.5s: 1.08%  1s: 1.00%  2s: 1.08%  3s: 1.04%  5s: 0.42%  10s: 0.16% | 36 it (278.1 ms/it), setup 0.12s, repair ~3.5s | certified True
+syn0769 [zp] hybrid 9.58% | 0.5s: 9.58%  1s: 5.38%  2s: 5.18%  3s: 3.53%  5s: 2.81%  10s: 2.52% | 188 it (53.3 ms/it), setup 0.02s, repair ~4.1s | certified True
+syn0769 [fvs] hybrid 9.58% | 0.5s: 9.58%  1s: 9.58%  2s: 9.58%  3s: 9.58%  5s: 4.15%  10s: 2.14% | 46 it (220.9 ms/it), setup 0.10s, repair ~3.6s | certified True
+syn0736 [zp] hybrid 5.94% | 0.5s: 1.76%  1s: 1.31%  2s: 2.25%  3s: 2.10%  5s: 2.11%  10s: 2.07% | 223 it (44.8 ms/it), setup 0.02s, repair ~3.8s | certified True
+syn0736 [fvs] hybrid 5.94% | 0.5s: 4.04%  1s: 4.36%  2s: 1.40%  3s: 3.74%  5s: 3.67%  10s: 0.19% | 49 it (205.6 ms/it), setup 0.10s, repair ~3.3s | certified True
+syn0161 [zp] hybrid 3.90% | 0.5s: 2.91%  1s: 1.83%  2s: 1.81%  3s: 1.72%  5s: 1.32%  10s: 1.67% | 241 it (41.7 ms/it), setup 0.02s, repair ~3.7s | certified True
+syn0161 [fvs] hybrid 3.90% | 0.5s: 2.68%  1s: 3.11%  2s: 3.90%  3s: 3.75%  5s: 1.92%  10s: 2.35% | 51 it (199.6 ms/it), setup 0.10s, repair ~3.6s | certified True
+syn0295 [zp] hybrid 4.13% | 0.5s: 4.13%  1s: 1.78%  2s: 1.83%  3s: 1.93%  5s: 2.07%  10s: 2.28% | 212 it (47.3 ms/it), setup 0.02s, repair ~4.6s | certified True
+syn0295 [fvs] hybrid 4.13% | 0.5s: 3.83%  1s: 3.16%  2s: 4.13%  3s: 4.13%  5s: 3.02%  10s: 2.42% | 45 it (223.6 ms/it), setup 0.10s, repair ~3.4s | certified True

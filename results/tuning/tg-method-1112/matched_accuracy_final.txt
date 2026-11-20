@@ -1,0 +1,4 @@
+method histories: val_histories_tg.csv
+gap <= 5 % on 32 plates: method reached 28 (median 2.9 s), FE reached 32 (median 20.4 s); both: 28, FE/method time ratio median 6.6 (range 1.5-124.2)
+gap <= 2 % on 32 plates: method reached 20 (median 10.1 s), FE reached 30 (median 26.5 s); both: 20, FE/method time ratio median 2.2 (range 1.6-5.8)
+gap <= 1 % on 32 plates: method reached 4 (median 10.8 s), FE reached 21 (median 52.3 s); both: 4, FE/method time ratio median 3.4 (range 2.2-4.2)

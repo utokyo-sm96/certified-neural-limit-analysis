@@ -1,0 +1,10 @@
+run	commit	metric	gates	status	runtime_s	timestamp	description
+1	dab2aa1	0.03347	FAIL G4 time mean 6.15s max 7.01s	gate_fail	298.0	2026-11-08T01:57:17	baseline attempt (per-vertex plumbing, LB_SECONDS 2.6): 3.347% but 6.15 s (per-vertex overhead ~0.5 s)
+2	d6e6fba	0.033709	PASS	baseline	287.9	2026-11-08T02:02:12	FVS network (nlo_fvs_ft30k) + fvs-hybrid-1107 hybrid with per-vertex plumbing, LB rounds until 2.2 s: 3.371 %, 5.81 s
+3	4b64155	0.033797	PASS	discard	266.7	2026-11-08T02:18:53	FVS window targets the 6000-DOF budget from both sides: 3.380% (+0.01), 5.43 s; syn0736 unchanged (global load path, not window size)
+4	921d542	0.033853	FAIL G4 time mean 6.00s max 7.16s	gate_fail	285.5	2026-11-08T02:26:32	A8 smoothed-scan candidates (sigma 2, K=8) + LB 1.7 s: 3.385% (+0.01), 6.004 s; combined start 2 points better but local rounds wash it out (15 better / 17 worse)
+5	db407dd	0.032827	PASS	discard	280.1	2026-11-08T02:31:24	near-miss: LB 1.6 s, UB window 20000 nodes + UB truncated at 15: 3.283% (-0.088; UB +0.875->+0.712, LB -2.007->-2.075), 5.78 s
+6	6f99fbb	0.032262	FAIL G4 time mean 6.10s max 14.15s	gate_fail	291.1	2026-11-08T02:36:45	run 5 + IRLS capped at 15 passes + LB 1.9 s: 3.226% (-0.145) but 6.10 s, max 14.2 s (syn0428: 20000-node UB windows are expensive)
+7	e3f53e8	0.032921	PASS	discard	269.8	2026-11-08T02:41:24	near-miss: UB window 16000 nodes + UB trunc 15 + IRLS cap 15 + LB 1.9 s: 3.292% (-0.079), 5.51 s
+8	9911877	0.032609	PASS	keep	276.0	2026-11-08T02:46:27	time rebalance LB->UB: UB window 16000 nodes, UB trunc 15, IRLS cap 15, LB rounds until 2.3 s: 3.261 % (-0.110), 5.68 s
+9	b485989	0.035097	PASS	discard	281.0	2026-11-08T02:51:24	ABLATION (not an idea): FVS head off inside the hybrid (ZP part of the same network): 3.510% (LB -2.24 vs -1.99%), 5.89 s -> FVS network = -0.25 points

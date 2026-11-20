@@ -1,0 +1,12 @@
+run	commit	metric	gates	status	runtime_s	timestamp	description
+1	cf6c3d1	0.022231	PASS	baseline	226.4	2026-11-06T16:59:58	baseline: grid T3 alternating diagonals, continuous linear v (UB), discontinuous linear N (LB), Clarabel defaults
+2	ecfb297	0.015147	PASS	keep	313.6	2026-11-06T17:12:51	adaptive union-jack: refine 25% highest-dissipation cells (from a pass-1 UB)
+3	153211a	0.015147	PASS	discard	342.7	2026-11-06T17:19:10	refine fraction 0.40 (identical gap, +29 s)
+4	721938b	0.015147	PASS	keep	204.5	2026-11-06T17:24:38	LB in sparse local equilibrium basis: same gap, runtime 313->204 s (-35%, tie-break keep)
+5	a891ea2	0.008023	PASS	keep	284.3	2026-11-06T17:29:50	level-2 refinement (1 mm union-jack quarter cells) for top 8% dissipation cells + fan transitions
+6	928610b	0.007741	PASS	keep	353.1	2026-11-06T17:36:41	level-2 fraction 0.15 (gap -3.5%, runtime 284->353 s; parameter only)
+7	e35b464	0.005765	PASS	keep	373.5	2026-11-06T17:44:24	generalized adaptive mesher; L3 (0.5 mm) top 2%, L2 back to 8%: gap -25%, 373 s
+8	a1e0655	0.005244	PASS	keep	410.6	2026-11-06T17:51:46	skip refinement for uniform flow (strips), L3 0.02->0.03: gap -9%, 410 s (near 420 s gate)
+9	61b8164	0.005244	PASS	keep	204.7	2026-11-06T18:00:29	Clarabel qdldl backend: same gap, runtime 410->204 s (-50%, tie-break keep)
+10	599c530	0.004381	PASS	keep	287.5	2026-11-06T18:05:42	level 4 (0.25 mm) for top 1% cells: gap -16.5%, 287 s -> below target 0.5%
+0	599c530	0.0042		heldout		2026-11-06T18:21:56	HELD-OUT 18 Ananai tensile tests: all bounds certified, bracket 0.42% mean; measured/LA mean 0.983 SD 0.025 R2 0.967 MAPE 2.6% (net-section: 0.989, 0.032, 0.963, 2.8%)

@@ -1,0 +1,15 @@
+run	commit	metric	gates	status	runtime_s	timestamp	description
+1	f99b066	0.027704	PASS	baseline	594.2	2026-11-13T13:35:38	setup f99b066: minorant + exact final scaling, REPAIR 1.0 s
+2	f99b066	0.027789	PASS	baseline	608.7	2026-11-13T13:46:15	baseline repeat (noise: +0.009 points, time 14.94 s)
+3	5bff431	0.026644	PASS	keep	600.0	2026-11-13T13:56:30	R1 local UB 16000->8000 nodes, repair 1.0->2.0 s
+4	3b5eacf	0.028793	PASS	discard	580.4	2026-11-13T14:17:33	R2 UB ADMM 50->30 it, repair 2.0->2.6 s (UB excess 0.49->0.74 %, repair saturates)
+5	5deb46f	0.025335	PASS	keep	589.8	2026-11-13T14:29:18	S1 nested-dissection LB ADMM solve + UB ADMM 50->75 it
+6	21f041c	0.025715	PASS	discard	578.1	2026-11-13T14:40:25	S2 no hybrid LB window round, LB ADMM 30->38 it (LB deficit 1.60->1.64 %)
+7	5c3bb10	0.027145	PASS	discard	495.4	2026-11-13T14:49:43	A1 adaptive ADMM budgets G0 0.08 [0.5,2.5]: mis-calibrated (12.0 s mean; max gap 8.87->8.59 %)
+8	a5e6813	0.025167	PASS	discard	578.9	2026-11-13T15:02:49	A1b adaptive budgets clip(gap/0.05,0.7,2.5): -0.017 points (< min_improvement; max gap 8.87->8.48 %)
+9	e7ee390	0.025853	PASS	discard	558.1	2026-11-13T15:12:32	W1 LB_MAX_DOF 6000->4000 (smaller rounds improve less; repair stops earlier)
+10	8e3aee3	0.023922	PASS	keep	526.7	2026-11-13T15:24:52	G1 GPU ellipsoid projections (-2.2..-3.5 s/plate), local UB back to 16000 nodes
+11	6f4d9b3	0.023463	PASS	discard	528.8	2026-11-13T15:34:00	P1 second pre-ADMM window round (LB_SECONDS 1.2): near-miss -0.046 points
+12	4704d5d	0.022973	PASS	keep	556.3	2026-11-13T15:43:33	C1 second pre-ADMM window round + adaptive ADMM budgets clip(gap/0.04,0.7,2.5)
+13	202787e	0.022133	PASS	keep	592.4	2026-11-13T15:53:49	D1 adaptive ADMM budgets clip(gap/0.035,0.7,3.0) (time 14.83 s: margin 0.17 s)
+14	202787e	0.022211	FAIL G3 time mean 15.06s max 22.64s	gate_fail	604.9	2026-11-13T16:04:10	repeat of D1 (202787e): gap 2.221 % reproduces, time 15.06 s fails G3 -> final = C1 (rule fixed before the run)
